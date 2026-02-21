@@ -1,7 +1,13 @@
 ---
-layout: page
-title: 所有新闻动态
+permalink: /
+title: "所有新闻"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 <div style="max-width: 850px; margin: 0 auto; padding: 20px 0; line-height: 1.8;" markdown="1">
 
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨老师！
