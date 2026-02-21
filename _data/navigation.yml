@@ -5,7 +5,7 @@ main:
     url: "/#主页"
 
   - title: "新闻"
-    url: "#news"
+    url: "/#新闻"
 
   - title: "论文"
     url: "#-publications"
