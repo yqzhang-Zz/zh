@@ -3,9 +3,6 @@ permalink: /
 title: "所有新闻"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <div style="max-width: 850px; margin: 0 auto; padding: 20px 0; line-height: 1.8;" markdown="1">
