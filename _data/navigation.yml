@@ -2,7 +2,7 @@
 main:
 
   - title: "主页"
-    url: " "
+    url: "#about-me"
 
   - title: "新闻"
     url: " "
