@@ -2,22 +2,22 @@
 main:
 
   - title: "主页"
-    url: "/#主页"
+    url: "#主页"
 
   - title: "新闻"
-    url: "/#新闻"
+    url: "#新闻"
 
   - title: "论文"
     url: "#-publications"
 
   - title: "荣誉与获奖"
-    url: "/#-honors-and-awards"
+    url: "#-honors-and-awards"
 
   - title: "教育背景"
-    url: "/#-educations"
+    url: "#-educations"
 
   - title: "特邀报告"
-    url: "/#-invited-talks"
+    url: "#-invited-talks"
 
   - title: "工作经历"
-    url: "/#-internships"
+    url: "#-internships"
