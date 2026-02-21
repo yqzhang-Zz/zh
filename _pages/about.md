@@ -64,3 +64,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+<script>
+document.addEventListener("click", function(e) {
+var target = e.target.closest("a");
+if (target && target.hash) {
+var id = target.hash.substring(1);
+var element = document.getElementById(id);
+if (element) {
+e.preventDefault();
+element.scrollIntoView({ behavior: "smooth" });
+}
+}
+});
+</script>
