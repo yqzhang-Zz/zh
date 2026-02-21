@@ -2,16 +2,16 @@
 main:
 
   - title: "主页"
-    url: "/zh/#主页"
+    url: "/#主页"
 
   - title: "新闻"
-    url: "/zh/#新闻"
+    url: "/#新闻"
 
   - title: "论文"
-    url: "/zh/#-publications"
+    url: "/#-publications"
 
   - title: "荣誉与获奖"
-    url: "/zh/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "教育背景"
     url: "#-educations"
