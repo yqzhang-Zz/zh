@@ -3,9 +3,6 @@ permalink: /zh/all_news/
 title: "所有新闻"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
