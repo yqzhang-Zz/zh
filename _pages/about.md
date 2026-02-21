@@ -27,8 +27,6 @@ redirect_from:
 
 本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（详情见[OMG招生要求]）。
 
-My research interest includes machine learning and data science. I have published more than 100 papers at the top international AI conferences <a href='[[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN)](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 <span class='anchor' id="news"></span>
 
 # 🔥 新闻
