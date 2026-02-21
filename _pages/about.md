@@ -19,15 +19,17 @@ redirect_from:
 
 本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**异构大数据机器学习** | **联邦学习** | **聚类分析** | **动态环境数据分析**（包括流数据/时序数据/OOD数据分析）| **长尾学习**
 
-已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。主持**国家自然科学基金2项**和省部级科研项目5项。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副主编** (Associate Editor)。在学术和人才培养方面获得多项荣誉，含2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。。
+已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。主持**国家自然科学基金2项**和省部级科研项目5项。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副主编** (Associate Editor)。在学术和人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（ISMIS’18，DOCS’24，2020年IEEE CIS论文评选），教育部-华为“智能基座”先锋教师称号等。
 
 本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（详情见[OMG招生要求]）。
 
 <span class='anchor' id="news"></span>
 
 # 🔥 新闻
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou! 
+- *2026.01*: &nbsp;🎉🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
+- *2026.01*: &nbsp;🎉🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
+- *2026.01*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)” has been selected as a Highly Cited Paper by the ESI.
 
 <span class='anchor' id="publications"></span>
 
