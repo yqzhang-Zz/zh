@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /all_news/
 title: ""
 excerpt: ""
@@ -8,7 +8,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="post">
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
+    
+    <header class="post-header" style="margin-bottom: 40px; border-bottom: 1px solid #eee;">
+      <h1 class="post-title" style="font-size: 2rem; font-weight: bold;">所有新闻动态</h1>
+    </header>
 
+    <article class="post-content">
+      <div class="news">
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨老师！
 - *2026/01*: &nbsp;🎉🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
@@ -71,3 +79,12 @@ redirect_from:
 - *2020/10*: &nbsp;🎉🎉 本人加入广东工业大学计算机学院。
 - *2020/03*: &nbsp;🎉🎉 一篇论文被**TCYB**接收。
 - *2019/11*: &nbsp;🎉🎉 一篇论文被**AAAI 2020**录用。
+      </div>
+    </article>
+
+    <div style="margin-top: 50px;">
+      <a href="{{ '/zh/' | relative_url }}" style="color: #2196f3; text-decoration: none;">← 返回主页</a>
+    </div>
+
+  </div>
+</div>
