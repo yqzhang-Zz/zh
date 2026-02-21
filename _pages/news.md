@@ -1,4 +1,5 @@
 ---
+layout: about
 permalink: /all_news/
 title: ""
 excerpt: ""
