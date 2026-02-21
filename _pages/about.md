@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-张逸群博士的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与应用**，研究课题包括：
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：
 
 **异构大数据机器学习 | 联邦学习 | 聚类分析 | 动态环境数据分析（包括流数据/时序数据/OOD数据分析）| 长尾学习**
 
-已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
-已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
-已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
-已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
+主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与应用**，研究课题包括：**异构大数据机器学习 | 联邦学习 | 聚类分析 | 动态环境数据分析（包括流数据/时序数据/OOD数据分析）| 长尾学习**
 
+已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。主持**国家自然科学基金2项**和省部级科研项目5项。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副主编** (Associate Editor)。在学术和人才培养方面获得多项荣誉，含2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。。
+
+本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（详情见[OMG招生要求]）。
 
 My research interest includes machine learning and data science. I have published more than 100 papers at the top international AI conferences <a href='[[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN)](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
