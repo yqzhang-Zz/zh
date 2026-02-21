@@ -26,10 +26,12 @@ redirect_from:
 <span class='anchor' id="news"></span>
 
 # 🔥 新闻
-- *2026.02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou! 
-- *2026.01*: &nbsp;🎉🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
-- *2026.01*: &nbsp;🎉🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
-- *2026.01*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)” has been selected as a Highly Cited Paper by the ESI.
+- *2026/02*: &nbsp;🎉🎉 Two papers accepted to CVPR 2026, congratulations to Hezhao Liu and Shihao Hou! 
+- *2026/01*: &nbsp;🎉🎉 One paper accepted as a long paper to DASFAA 2026, congratulations to Junyang Chen!
+- *2026/01*: &nbsp;🎉🎉 Two papers accepted to ICASSP 2026, congratulations to Shujie Qiu and Taixi Chen!
+- *2026/01*: &nbsp;🎉🎉 The paper “[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)” (TNNLS, 2025) has been selected as a Highly Cited Paper by the ESI.
+- *2025/12*: &nbsp;🎉🎉 Two papers accepted by IoTJ, congratulations to Shenghong Cai, Zihua Yang, Zexi Tan, and Yunlin Liu!
+- 
 
 <span class='anchor' id="publications"></span>
 
