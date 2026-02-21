@@ -27,7 +27,7 @@ redirect_from:
 已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TCYB, NeurIPS, CVPR, KDD, AAAI, IJCAI**等发表论文数十篇。主持**国家自然科学基金2项**和省部级科研项目5项，承担/参与国家级、省部级科研项目若干。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副编辑** (Associate Editor)。在学术和人才培养方面获得多项荣誉，如2023年广东**省科技进步二等奖**，ISMIS’18和DOCS’24**最佳论文奖**，教育部-华为“智能基座”先锋教师称号等。
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes machine learning and data science. I have published more than 100 papers at the top international AI conferences <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <span class='anchor' id="news"></span>
 
