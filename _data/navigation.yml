@@ -5,19 +5,19 @@ main:
     url: "/zh/#about-me"
 
   - title: "新闻"
-    url: "/zh/#news"
+    url: "/zh/#-news"
 
   - title: "论文"
-    url: "/#-publications"
+    url: "/zh/#-publications"
 
   - title: "荣誉与获奖"
-    url: "/#-honors-and-awards"
+    url: "/zh/#-honors-and-awards"
 
   - title: "教育背景"
-    url: "/#-educations"
+    url: "/zh/#-educations"
 
   - title: "特邀报告"
-    url: "/#-invited-talks"
+    url: "/zh/#-invited-talks"
 
   - title: "工作经历"
-    url: "/#-internships"
+    url: "/zh/#-internships"
