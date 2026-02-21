@@ -1,26 +1,7 @@
 ---
 permalink: /zh/all_news/
 title: "所有新闻"
-excerpt: ""
-author_profile: true
 ---
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异构大数据机器学习]** **[联邦学习]** **[聚类分析]** **[动态环境数据分析]**（包括流数据/时序数据/OOD数据分析） **[长尾学习]**
-
-已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。主持**国家自然科学基金2项**（2024、2021），主持省部级科研项目5项，入选广东特支计划（2026）。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副主编** (Associate Editor)。在学术和人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（ISMIS’18，DOCS’24，2020年IEEE CIS论文评选），教育部-华为“智能基座”先锋教师称号等。
-
-本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（详情见[OMG招生要求]）。
-
-<span class='anchor' id="news"></span>
 
 # 🔥 新闻
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨老师！
