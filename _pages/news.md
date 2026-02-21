@@ -2,11 +2,6 @@
 layout: page
 permalink: /all_news/
 title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 <div class="post">
   <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
