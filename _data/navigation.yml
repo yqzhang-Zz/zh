@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "<i class='fas fa-globe'></i> EN"
+    url: ""
+
   - title: "关于我"
     url: "/zh/#about-me"
 
