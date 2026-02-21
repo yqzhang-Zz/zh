@@ -1,7 +1,8 @@
 ---
-layout: page
-title: 所有新闻
 permalink: /all_news/
+title: ""
+excerpt: ""
+author_profile: true
 ---
 
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨老师！
