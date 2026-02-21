@@ -43,6 +43,7 @@ redirect_from:
 - *2025/10*: &nbsp;🎉🎉 One survey paper accepted by **TAI**, congratulations to Mingjie Zhao and Yunfan Zhang!
 - *2025/09*: &nbsp;🎉🎉 OMG本科科研生保研至**中山大学**，恭喜团队同学！
 - *2025/08*: &nbsp;🎉🎉 One paper accepted to **SIGMOD 2026**, congratulations to Mingjie Zhao!
+-- **历史新闻请点击[这里](https://ieeexplore.ieee.org/abstract/document/11007519)** --
 - *2025/07*: &nbsp;🎉🎉 OMG本科生团队获得“计算机设计大赛”**国赛一等奖**（该竞赛的国赛最高奖项），恭喜团队同学！
 - *2025/07*: &nbsp;🎉🎉 One paper accepted by **TMM**, congratulations to Jiayu Ye and Prof. An Zeng!
 - *2025/07*: &nbsp;🎉🎉 One paper accepted to **ACM MM 2025**, congratulations to Hezhao Liu!
