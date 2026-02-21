@@ -2,10 +2,10 @@
 main:
 
   - title: "关于我"
-    url: "/#about-me"
+    url: "/zh/#about-me"
 
   - title: "新闻"
-    url: "/#-news"
+    url: "/zh/#-news"
 
   - title: "论文"
     url: "/#-publications"
