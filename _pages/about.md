@@ -31,10 +31,10 @@ redirect_from:
 <span class='anchor' id="news"></span>
 
 # 🔥 新闻
-- *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
-- *2026/01*: &nbsp;🎉🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
-- *2026/01*: &nbsp;🎉🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
+- *2026/02*: &nbsp;🎉🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
+- *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
+- *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
+- *2026/01*: &nbsp;🎉🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
 - *2025/12*: &nbsp;🎉🎉 两篇论文被**IoTJ**接收。
   
   ... ... 所有历史新闻请点击[这里](/zh-news/) ... ...
@@ -56,6 +56,8 @@ redirect_from:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">CVPR 2026</span> Learning Self-Growth Maps for...
+- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">TNNLS</span> 您的另一篇期刊论文标题...
 
 <span class='anchor' id="honors-and-awards"></span>
 
