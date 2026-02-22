@@ -69,7 +69,7 @@ Online Heterogeneous Feature Selection,
 
 <span class='anchor' id="honors-and-awards"></span>
 
-# 🎖 荣誉与获奖
+# 🏆 荣誉与获奖
 <!-- 
 - *2026/02*: IEEE汇刊TETCI优秀编委
 - *2026/01*: 广东工业大学优秀研究生导师
@@ -88,7 +88,7 @@ Online Heterogeneous Feature Selection,
 
 <span class='anchor' id="educations"></span>
 
-# 📖 教育背景
+# 👨‍🎓 教育背景
 - *2014/09 - 2019/11*，香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow）
 - *2013/09 - 2014/11*，香港浸会大学，计算机科学系，理学硕士
 - *2009/09 - 2013/07*，华南理工大学，生物医学工程系，工学学士
@@ -96,7 +96,7 @@ Online Heterogeneous Feature Selection,
 
 <span class='anchor' id="invited-talks"></span>
 
-# 💬 特邀报告
+# 👨‍🏫 特邀报告
 - *2025/12*，山西大学，动态环境复杂分布数据聚类分析
 - *2024/12*，东北大学/流程工业综合自动化国家重点实验室， Clustering Complex Data Under Dynamic Environment
 - *2024/12*，广东工业大学，动态环境下的复杂数据聚类分析
