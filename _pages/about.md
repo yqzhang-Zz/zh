@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异构大数据机器学习]** **[联邦学习]** **[聚类分析]** **[动态环境数据分析]**（包括流数据/时序数据/OOD数据分析） **[长尾学习]**。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'>发表论文90余篇<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异构大数据机器学习]** **[联邦学习]** **[聚类分析]** **[动态环境数据分析]**（包括流数据/时序数据/OOD数据分析） **[长尾学习]**。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'>发表论文90余篇
+
+<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ' target='_blank'><img src="https://img.shields.io/badge/citations-805-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
 
 主持**国家自然科学基金2项**（2024、2021），主持省部级科研项目5项，入选广东特支计划（2026）。现担任*IEEE Transactions on Emerging Topics in Computational Intelligence **(TETCI)* 副主编** (Associate Editor)。在学术和人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（ISMIS’18，DOCS’24，2020年IEEE CIS论文评选），教育部-华为“智能基座”先锋教师称号等。
 
