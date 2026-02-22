@@ -36,7 +36,9 @@ redirect_from:
 - *2026/01*: &nbsp;🎉🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
 - *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
 - *2025/12*: &nbsp;🎉🎉 两篇论文被**IoTJ**接收。
+  
   ... ...
+  
   **所有历史新闻请点击>>>>[这里](/zh-news/)<<<<**
 
 <span class='anchor' id="publications"></span>
