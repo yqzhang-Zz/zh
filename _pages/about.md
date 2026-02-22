@@ -65,7 +65,7 @@ redirect_from:
 - *2026/01*: 广东工业大学优秀研究生导师
 -->
 - *2025/12*: 广东工业大学学报优秀编委
-- *2024/11*: ACM SIGKDD 2025 Excellent Reviewer
+- *2024/12*: ACM SIGKDD 2025 Excellent Reviewer
 - *2024/08*: 2023年度广东省科技进步二等奖
 - *2024/08*: IEEE第6届复杂系统数据驱动优化国际会议（DOCS 2024）最佳论文奖
 - *2022/09*: 教育部-华为智能基座先锋教师称号
@@ -79,17 +79,27 @@ redirect_from:
 <span class='anchor' id="educations"></span>
 
 # 📖 教育背景
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014/09 - 2019/11*，香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow）
+- *2013/09 - 2014/11*，香港浸会大学，计算机科学系，理学硕士（导师：张晓明教授，长江学者，IEEE Fellow）
+- *2009/09 - 2013/07*，华南理工大学，生物医学工程系，工学学士
+- *2006/09 - 2009/07*，深圳市红岭中学，理科班
 
 <span class='anchor' id="invited-talks"></span>
 
 # 💬 特邀报告
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025/12*，山西大学，动态环境复杂分布数据聚类分析
+- *2024/12*，东北大学/流程工业综合自动化国家重点实验室， Clustering Complex Data Under Dynamic Environment
+- *2024/12*，广东工业大学，动态环境下的复杂数据聚类分析
+- *2023/11*，南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
+- *2021/04*，广东工业大学，以投稿和审稿人视角浅谈人工智能科研
 
 <span class='anchor' id="internships"></span>
 
 # 💻 工作经历
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026/01 至今*，广东工业大学，计算机学院，特聘教授
+- *2024/12 - 2025/12*，香港浸会大学，计算机科学系，访问研究学者
+- *2023/12 - 2026/01*，广东工业大学，计算机学院，副教授
+- *2022/09 - 2023/12*，广东工业大学，计算机学院，特聘副教授
+- *2020/10 - 2022/09*，广东工业大学，计算机学院，讲师
+- *2019/09 - 2021/02*，香港浸会大学，计算机科学系，博士后（导师：张晓明教授，长江学者，IEEE Fellow）
 
