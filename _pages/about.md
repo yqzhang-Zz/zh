@@ -56,15 +56,15 @@ redirect_from:
 </div>
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR 2026</span> 
-SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning,
+SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning,<br>
 Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu.
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR 2026</span> 
-Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning,
+Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning,<br>
 Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, **Yiqun Zhang** and Yang Lu.
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB 2025</span> 
-Online Heterogeneous Feature Selection,
+Online Heterogeneous Feature Selection,<br>
 **Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung.
 
 <span class='anchor' id="honors-and-awards"></span>
