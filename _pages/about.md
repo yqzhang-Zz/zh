@@ -31,11 +31,11 @@ redirect_from:
 <span class='anchor' id="news"></span>
 
 # 🔥 新闻
-- *2026/02*: &nbsp;🎉🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
+- *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
-- *2025/12*: &nbsp;🎉🎉 两篇论文被**IoTJ**接收。
+- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
+- *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
   
   ... ... 所有历史新闻请点击[这里](/zh-news/) ... ...
 
