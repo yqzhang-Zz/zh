@@ -85,27 +85,27 @@ Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Ta
 Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TAI 2025</span> 
+TAI</span> 
 Trending Applications of Large Language Models: A User Perspective Survey<br>
 **Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB 2025</span> 
+TCYB</span> 
 Online Heterogeneous Feature Selection<br>
 **Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS 2025</span> 
+TNNLS</span> 
 Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering<br>
 **Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ESWA 2025</span> 
+ESWA</span> 
 Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering<br>
 **Yiqun Zhang**, Mingjie Zhao, Yizhou Chen, Yang Lu and Yiu-ming Cheung
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TPAMI 2022</span> 
+TPAMI</span> 
 Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes<br>
 **Yiqun Zhang** and Yiu-ming Cheung
 
