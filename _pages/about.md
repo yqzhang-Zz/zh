@@ -49,11 +49,11 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- 异质特征数据表征学习
+- 异质特征数据表征学习<br>
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-DASFAA'26</span>]
+DASFAA'26</span>](https://dasfaa2026.github.io/)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -61,13 +61,13 @@ TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
 
-- 异质特征数据距离度量
+- 异质特征数据距离度量<br>
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
 
 
 
-- 异质分布样本聚类分析
+- 异质分布样本聚类分析<br>
   
 </div>
 </div>
