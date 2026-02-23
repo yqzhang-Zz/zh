@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异构大数据机器学习]** **[联邦学习]** **[聚类分析]** **[动态环境数据分析]**（包括流数据/时序数据/OOD数据分析） **[长尾学习]**。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'>发表论文90余篇</a>。
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[联邦学习]** **[非稳态数据分析]**（包括流数据/时序数据/OOD数据分析） **[无/弱监督机器学习]**。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'>发表论文90余篇</a>。
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -42,8 +42,8 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 
 # 📝 论文
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+**研究方向**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">异质数据机器学习</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -53,6 +53,7 @@ redirect_from:
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+**论文列表**
 </div>
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR 2026</span> 
@@ -66,6 +67,7 @@ Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao,
 TCYB 2025</span> 
 Online Heterogeneous Feature Selection<br>
 **Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung
+  ... ... 仅筛选展示10篇，完整论文列表请点击[这里]） ... ...
 
 <span class='anchor' id="honors-and-awards"></span>
 
