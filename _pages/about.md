@@ -52,7 +52,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- 异质特征数据表征学习<br>
+- **异质特征数据表征学习**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'26</span>](https://arxiv.org/abs/2511.09049)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -66,7 +66,7 @@ TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
 
-- 异质特征数据距离度量<br>
+- **异质特征数据距离度量**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -80,7 +80,7 @@ TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
 
-- 异质分布样本聚类分析<br>
+- **异质分布样本聚类分析**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
