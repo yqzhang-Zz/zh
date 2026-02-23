@@ -62,7 +62,7 @@ redirect_from:
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD 2026</span> 
-Categorical Data Clustering via Value Order Estimated Distance Metric Learning<br>
+[Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>
 **Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
