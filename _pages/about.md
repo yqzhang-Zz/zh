@@ -52,6 +52,10 @@ redirect_from:
 - 异质特征数据表征学习
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">TCYB</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
 
+<a href="https://ieeexplore.ieee.org/abstract/document/11274409" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">TCYB</span>
+</a>
+
 - 异质特征数据距离度量
 
 - 异质分布样本聚类分析
