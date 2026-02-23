@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🏫 关于我
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[大语言模型应用]** **[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]**（包括流数据/时序数据/OOD数据分析）。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇</a>。
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[大语言模型应用]** **[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]**（包括流数据/时序数据/OOD数据分析）。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇。
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -91,7 +91,9 @@ TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 
-
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">弱/无监督联邦学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
@@ -137,7 +139,9 @@ TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 
-
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">非稳态数据分析</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
@@ -183,7 +187,9 @@ TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 
-
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">大语言模型应用</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
