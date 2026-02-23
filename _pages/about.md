@@ -69,6 +69,8 @@ SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
