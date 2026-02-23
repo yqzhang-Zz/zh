@@ -47,8 +47,11 @@ redirect_from:
 
 **研究方向**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.1em; font-weight: bold;">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 - 异质特征数据表征学习<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'26</span>](https://arxiv.org/abs/2511.09049)
@@ -179,7 +182,7 @@ TPAMI'22</span>
 
 # 💬 特邀报告
 - *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
-- *2024/12*: 东北大学/流程工业综合自动化国家重点实验室， Clustering Complex Data Under Dynamic Environment
+- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
 - *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
 - *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
 - *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
