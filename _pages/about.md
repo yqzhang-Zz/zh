@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👨‍🏫 关于我
+
 本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[大语言模型应用]** **[异质数据机器学习]** **[联邦学习]** **[非稳态数据分析]**（包括流数据/时序数据/OOD数据分析） **[无监督机器学习]**。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等<a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'>发表论文90余篇</a>。
 
 <!--
