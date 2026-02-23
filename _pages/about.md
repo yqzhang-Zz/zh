@@ -142,13 +142,13 @@ PRICAI'25</span>](xxxx)
 
 - **流数据/概念漂移分析**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'25</span>](xxxx)
-[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-BIBM'24</span>](xxxx)
+AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](xxxx)
+TETCI'26</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'19</span>](xxxx)
+TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
   
 </div>
 </div>
