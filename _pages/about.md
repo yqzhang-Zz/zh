@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🏫 关于我
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[大语言模型应用]** **[异质数据机器学习]** **[联邦学习]** **[非稳态数据分析]**（包括流数据/时序数据/OOD数据分析） **[无监督机器学习]**。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇</a>。
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[大语言模型应用]** **[异质数据机器学习]** **[联邦学习]** **[非稳态数据分析]**（包括流数据/时序数据/OOD数据分析）。已在相关领域顶级期刊和会议如**TPAMI, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI**等发表论文90余篇</a>。
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -48,6 +48,144 @@ redirect_from:
 **研究方向**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+  
+- **异质特征数据表征学习**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'26</span>](https://arxiv.org/abs/2511.09049)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ESWA'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
+
+- **异质特征数据距离度量**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
+
+- **异质分布样本聚类分析**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">联邦学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+  
+- **异质特征数据表征学习**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'26</span>](https://arxiv.org/abs/2511.09049)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ESWA'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
+
+- **异质特征数据距离度量**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
+
+- **异质分布样本聚类分析**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">非稳态数据分析</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
+  
+- **异质特征数据表征学习**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'26</span>](https://arxiv.org/abs/2511.09049)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGKDD'24</span>](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ESWA'25</span>](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'23</span>](https://ieeexplore.ieee.org/abstract/document/9887970)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TPAMI'22</span>](https://ieeexplore.ieee.org/abstract/document/9346004)
+
+- **异质特征数据距离度量**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICASSP'25</span>](https://ieeexplore.ieee.org/abstract/document/10889806)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ECAI'24</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA240709)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
+
+- **异质分布样本聚类分析**<br>
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">大语言模型应用</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
 - **异质特征数据表征学习**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
