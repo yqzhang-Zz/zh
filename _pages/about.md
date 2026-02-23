@@ -132,13 +132,13 @@ TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/10373104)
   
 - **时序数据分析**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'26</span>](xxxx)
+AAAI'26</span>](https://arxiv.org/abs/2511.17008)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-BIBM'25</span>](xxxx)
+BIBM'25</span>](https://arxiv.org/abs/2510.12214)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-ECAI'23</span>](xxxx)
+ECAI'23</span>](https://ebooks.iospress.nl/doi/10.3233/FAIA230625)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-PRICAI'25</span>](xxxx)
+PRICAI'25</span>](https://arxiv.org/abs/2510.15985)
 
 - **流数据/概念漂移分析**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
