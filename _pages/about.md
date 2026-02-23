@@ -78,12 +78,18 @@ TCYB'22</span>](https://ieeexplore.ieee.org/abstract/document/9079460)
 TNNLS'20</span>](https://ieeexplore.ieee.org/abstract/document/8671525)
 
 - 异质分布样本聚类分析<br>
-IoTJ'26
-AAAI'25
-TNNLS'25
-TETCI'25
-ICDCS'24
-TNNLS'18
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
+[<span style="display: inline-block; background-color: #e3f2fd; color: #1976d2; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ICDCS'24</span>](https://ieeexplore.ieee.org/abstract/document/10631083)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'26</span>](https://ieeexplore.ieee.org/abstract/document/11300877)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/11007519)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'25</span>](https://ieeexplore.ieee.org/abstract/document/11134305)
+[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
   
 </div>
 </div>
