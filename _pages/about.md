@@ -50,8 +50,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - 异质特征数据表征学习
-[<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
+<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+[TCYB]</span>(https://ieeexplore.ieee.org/abstract/document/11274409)
 
 - 异质特征数据距离度量
 
