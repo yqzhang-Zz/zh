@@ -60,17 +60,54 @@ redirect_from:
 **论文列表**
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+SIGMOD 2026</span> 
+Categorical Data Clustering via Value Order Estimated Distance Metric Learning<br>
+**Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung
+
+- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR 2026</span> 
 SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning<br>
 Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu
+
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-CVPR 2026</span> 
-Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning<br>
-Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, **Yiqun Zhang** and Yang Lu
+AAAI 2026</span> 
+Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering<br>
+Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**
+
+- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+SIGKDD 2024</span> 
+QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering<br>
+Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang** and Yiu-ming Cheung
+
+- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+NeurIPS 2024</span> 
+Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition<br>
+Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang
+
+- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TAI 2025</span> 
+Trending Applications of Large Language Models: A User Perspective Survey<br>
+**Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung
+
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB 2025</span> 
 Online Heterogeneous Feature Selection<br>
 **Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung
+
+- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS 2025</span> 
+Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering<br>
+**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung
+
+- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ESWA 2025</span> 
+Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering<br>
+**Yiqun Zhang**, Mingjie Zhao, Yizhou Chen, Yang Lu and Yiu-ming Cheung
+
+- <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TPAMI 2022</span> 
+Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes<br>
+**Yiqun Zhang** and Yiu-ming Cheung
 
   ... ... 仅筛选展示10篇，完整论文列表请点击[这里]） ... ...
 
