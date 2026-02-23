@@ -77,7 +77,7 @@ Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGKDD 2024</span> 
 QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>✉️</sup> and Yiu-ming Cheung
+Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 NeurIPS 2024</span> 
