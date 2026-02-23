@@ -42,7 +42,9 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 
 # 📝 论文
+
 **研究方向**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">异质数据机器学习</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +55,9 @@ redirect_from:
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
+
 **论文列表**
+
 </div>
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR 2026</span> 
@@ -67,6 +71,7 @@ Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao,
 TCYB 2025</span> 
 Online Heterogeneous Feature Selection<br>
 **Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung
+
   ... ... 仅筛选展示10篇，完整论文列表请点击[这里]） ... ...
 
 <span class='anchor' id="honors-and-awards"></span>
@@ -98,7 +103,7 @@ Online Heterogeneous Feature Selection<br>
 
 <span class='anchor' id="invited-talks"></span>
 
-# 👨‍🏫 特邀报告
+# 💬 特邀报告
 - *2025/12*，山西大学，动态环境复杂分布数据聚类分析
 - *2024/12*，东北大学/流程工业综合自动化国家重点实验室， Clustering Complex Data Under Dynamic Environment
 - *2024/12*，广东工业大学，动态环境下的复杂数据聚类分析
