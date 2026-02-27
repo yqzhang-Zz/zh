@@ -28,7 +28,7 @@ redirect_from:
 
 主持**国家自然科学基金2项**（2024、2021）和省部级科研项目5项，入选广东特支计划（青年拔尖人才，2026）和深圳市高层次人才奖励计划（C类，2016）。现担任SCI期刊*IEEE Transactions on Emerging Topics in Computational Intelligence*（TETCI）副主编（Associate Editor）。在学术和人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（ISMIS’18，DOCS’24，2020年IEEE CIS论文评选），教育部-华为“智能基座”先锋教师称号等。
 
-本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（招生详情和课题组简介见[关于OMG]）。
+本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（招生详情和课题组简介见[关于OMG](/zh-OMG/)）。
 
 <span class='anchor' id="news"></span>
 
