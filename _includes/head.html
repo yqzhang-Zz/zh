@@ -16,4 +16,16 @@
 <meta http-equiv="cleartype" content="on">
 <head>
   <base target="_blank">
+
+  <style>
+/* 覆盖模板默认头像样式，添加渐变边框 */
+.author__avatar img {
+    padding: 5px !important; /* 这里控制渐变边框的厚度，你可以随意微调数字 */
+    background: linear-gradient(135deg, #001f3f 0%, #00a896 100%) !important; /* 深蓝到蓝绿的渐变色 */
+    border: none !important; /* 强制移除模板自带的白色实线边框 */
+    border-radius: 50% !important; /* 保持完美圆形 */
+    box-sizing: border-box !important;
+}
+</style>
+  
 </head>
