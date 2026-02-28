@@ -17,6 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4A90E2; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">👨‍🏫 关于我</h3>
+  <div style="flex-grow: 1; height: 2px; background: linear-gradient(to right, #4A90E2, #1A365D);"></div>
+</div>
+
 # 👨‍🏫 关于我
 
 本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域顶级期刊和会议如**TPAMI, TNNLS, TIP, TMM, TCYB, SIGMOD, SIGKDD, NeurIPS, CVPR, ICCV, AAAI, IJCAI, ACM MM**等发表论文90余篇。
