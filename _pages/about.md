@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h2 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🏫 关于我</h2>
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🏫 关于我</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
