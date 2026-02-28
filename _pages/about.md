@@ -45,8 +45,6 @@ redirect_from:
 
 # 📝 论文
 
-**研究方向**
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
 - **异质特征数据表征学习**<br>
@@ -202,7 +200,7 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 </div>
 -->
 
-**论文列表**
+**代表性论文列表**
 
 - <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
