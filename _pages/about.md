@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-end; margin-top: 30px; margin-bottom: 15px;">
   <div style="margin: 0; padding-bottom: 4px; border-bottom: 3px solid #1A365D; color: #333; font-size: 1em; font-weight: bold;">
-    👨‍🏫 关于我
+    # 👨‍🏫 关于我
   </div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D; margin-left: 10px; margin-bottom: 0px;"></div>
 </div>
