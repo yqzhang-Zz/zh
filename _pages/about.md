@@ -232,7 +232,7 @@ Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TMM'26</span> 
 [NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering](https://ieeexplore.ieee.org/abstract/document/11353921/)<br>
-Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao and **Yiqun Zhang**
+Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao, **Yiqun Zhang** and Yang Liu
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TAI'25</span> 
