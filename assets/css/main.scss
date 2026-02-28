@@ -149,8 +149,3 @@ h1:before, .anchor:before {
     color: #FFFFFF !important; /* 确保文字依然是清晰的纯白 */
 }
 
-@media screen and (max-width: 768px) {
-.masthead, .masthead__inner-wrap, .greedy-nav { height: auto !important; }
-.greedy-nav .visible-links { padding-right: 50px !important; }
-.greedy-nav__toggle { z-index: 100 !important; }
-}
