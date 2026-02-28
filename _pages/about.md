@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="display: flex; align-items: flex-end; margin-top: 30px; margin-bottom: 15px;">
-  <h2 style="margin: 0; padding-bottom: 8px; border-bottom: 6px solid #1A365D; color: #111; font-weight: 700;">
+  <div style="margin: 0; padding-bottom: 4px; border-bottom: 3px solid #1A365D; color: #333; font-size: 1em; font-weight: bold;">
     👨‍🏫 关于我
-  </h2>
-  <div style="flex-grow: 1; height: 2px; background-color: #1A365D; margin-left: 10px; margin-bottom: 2px;"></div>
+  </div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D; margin-left: 10px; margin-bottom: 0px;"></div>
 </div>
 
 # 👨‍🏫 关于我
