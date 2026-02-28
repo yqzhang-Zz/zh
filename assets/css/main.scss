@@ -108,14 +108,20 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* 1. 强制将顶部导航条的背景色改为深蓝 (Minimal Mistakes 专用) */
-.masthead { 
+/* 1. 强制穿透修改导航栏背景：连同 greedy-nav 的纯白背景一起覆盖 */
+.masthead, 
+.masthead__inner-wrap, 
+.greedy-nav { 
     background-color: #1A365D !important; 
     border-bottom: none !important; 
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15) !important; 
 }
 
-/* 2. 强制将导航栏里的所有文字和图标改为纯白色 (包含网站Title和各个选项) */
+/* 2. 给整个导航栏加一层高级的底边阴影 */
+.masthead {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2) !important;
+}
+
+/* 3. 强制修改所有文字为纯白色 */
 .masthead__menu-item a, 
 .site-title, 
 .greedy-nav a, 
@@ -125,14 +131,15 @@ h1:before, .anchor:before {
     color: #FFFFFF !important; 
 }
 
-/* 3. 鼠标悬停时的互动效果：变成浅蓝色 */
+/* 4. 鼠标悬停互动：变成极浅蓝 */
 .masthead__menu-item a:hover, 
 .site-title:hover, 
 .greedy-nav a:hover {
     color: #E8F4FF !important; 
 }
 
-/* 4. 修复移动端/小屏幕下的折叠菜单图标颜色 */
+/* 5. 修复下拉菜单（屏幕变窄时出现的折叠菜单）的底色 */
 .greedy-nav .visible-links {
     background-color: #1A365D !important;
+    border: 1px solid #112643 !important;
 }
