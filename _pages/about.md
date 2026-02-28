@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4A90E2; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">👨‍🏫 关于我</h3>
-  <div style="flex-grow: 1; height: 2px; background: linear-gradient(to right, #4A90E2, #1A365D);"></div>
+  <h3 style="background-color: #E8F4FF; color: #1A365D; padding: 4px 12px; margin: 0; font-weight: 600; border-radius: 4px 4px 0 0;">👨‍🏫 关于我</h3>
+  <div style="flex-grow: 1; height: 2px; background: linear-gradient(to right, #E8F4FF, #1A365D);"></div>
 </div>
 
 # 👨‍🏫 关于我
