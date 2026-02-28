@@ -150,7 +150,7 @@ h1:before, .anchor:before {
 }
 
 @media screen and (max-width: 768px) {
-.greedy-nav { height: auto !important; padding-bottom: 10px !important; }
-.greedy-nav .visible-links { display: flex !important; flex-wrap: wrap !important; height: auto !important; }
-.greedy-nav .visible-links li { margin-bottom: 8px !important; }
+.masthead, .masthead__inner-wrap, .greedy-nav { height: auto !important; }
+.greedy-nav .visible-links { padding-right: 50px !important; }
+.greedy-nav__toggle { z-index: 100 !important; }
 }
