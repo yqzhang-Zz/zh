@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #E8F4FF; color: #1A365D; padding: 4px 12px; margin: 0; font-weight: 600; border-radius: 4px 4px 0 0;">👨‍🏫 关于我</h3>
-  <div style="flex-grow: 1; height: 2px; background: linear-gradient(to right, #E8F4FF, #1A365D);"></div>
+<div style="display: flex; align-items: flex-end; margin-top: 30px; margin-bottom: 15px;">
+  <h2 style="margin: 0; padding-bottom: 8px; border-bottom: 6px solid #1A365D; color: #111; font-weight: 700;">
+    👨‍🏫 关于我
+  </h2>
+  <div style="flex-grow: 1; height: 2px; background-color: #1A365D; margin-left: 10px; margin-bottom: 2px;"></div>
 </div>
 
 # 👨‍🏫 关于我
