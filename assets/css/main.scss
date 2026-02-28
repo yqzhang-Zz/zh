@@ -108,38 +108,34 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* 1. 强制穿透修改导航栏背景：连同 greedy-nav 的纯白背景一起覆盖 */
-.masthead, 
-.masthead__inner-wrap, 
-.greedy-nav { 
-    background-color: #1A365D !important; 
-    border-bottom: none !important; 
-}
-
-/* 2. 给整个导航栏加一层高级的底边阴影 */
+/* 1. 给最外层的导航栏统一铺上深蓝底色，并加上高级阴影 */
 .masthead {
-    box-shadow: 0 2px 6px rgba(0,0,0,0.2) !important;
+    background-color: #1A365D !important;
+    border-bottom: none !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
 }
 
-/* 3. 强制修改所有文字为纯白色 */
-.masthead__menu-item a, 
-.site-title, 
-.greedy-nav a, 
+/* 2. 消除内部组件（产生白色色块的元凶）的自带背景，使其透明 */
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav__toggle {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+/* 3. 强制把所有的导航文字、站点标题、图标变成纯白色 */
+.masthead__menu-item a,
+.site-title,
+.greedy-nav a,
 .greedy-nav button,
 .greedy-nav .fas,
-.greedy-nav .navicon { 
-    color: #FFFFFF !important; 
+.greedy-nav .navicon {
+    color: #FFFFFF !important;
 }
 
-/* 4. 鼠标悬停互动：变成极浅蓝 */
-.masthead__menu-item a:hover, 
-.site-title:hover, 
-.greedy-nav a:hover {
-    color: #E8F4FF !important; 
-}
-
-/* 5. 修复下拉菜单（屏幕变窄时出现的折叠菜单）的底色 */
-.greedy-nav .visible-links {
+/* 4. 修复移动端/小屏幕下的折叠下拉菜单，确保它弹出时是有底色的（否则会透明重叠） */
+.greedy-nav .hidden-links {
     background-color: #1A365D !important;
-    border: 1px solid #112643 !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
 }
