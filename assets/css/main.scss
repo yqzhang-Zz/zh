@@ -139,3 +139,12 @@ h1:before, .anchor:before {
     background-color: #1A365D !important;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
 }
+
+/* 修复折叠菜单（下拉菜单）鼠标悬停时对比度不足的问题 */
+.greedy-nav .hidden-links a:hover,
+.greedy-nav .hidden-links li a:hover,
+.masthead__menu ul.hidden-links > li > a:hover {
+    background: #28497D !important; /* 悬停时底色变成稍亮的深蓝 */
+    background-color: #28497D !important;
+    color: #FFFFFF !important; /* 确保文字依然是清晰的纯白 */
+}
