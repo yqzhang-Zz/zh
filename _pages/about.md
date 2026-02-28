@@ -38,7 +38,12 @@ redirect_from:
 
 <span class='anchor' id="news"></span>
 
-# 🔥 新闻
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🔥 新闻</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
@@ -49,7 +54,11 @@ redirect_from:
 
 <span class='anchor' id="publications"></span>
 
-# 📝 论文
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📝 论文</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="font-size: 1.0em; font-weight: bold;">异质数据机器学习</div><img src='images/Het-ML.png' alt="sym" width="100%"></div></div><div class='paper-box-text' markdown="1">
   
@@ -262,7 +271,12 @@ TPAMI'22</span>
 
 <span class='anchor' id="honors-and-awards"></span>
 
-# 🏆 荣誉与获奖
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🏆 荣誉与获奖</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 <!-- 
 - *2026/02*: IEEE汇刊TETCI优秀编委
 -->
@@ -282,7 +296,12 @@ TPAMI'22</span>
 
 <span class='anchor' id="educations"></span>
 
-# 👨‍🎓 教育背景
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🎓 教育背景</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 - *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）
 - *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
 - *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
@@ -290,7 +309,12 @@ TPAMI'22</span>
 
 <span class='anchor' id="invited-talks"></span>
 
-# 💬 特邀报告
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💬 特邀报告</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 - *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
 - *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
 - *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
@@ -299,7 +323,12 @@ TPAMI'22</span>
 
 <span class='anchor' id="internships"></span>
 
-# 💻 工作经历
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💻 工作经历</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
 - *2026/01 至今*: 广东工业大学，计算机学院，特聘教授
 - *2024/12 - 2025/12*: 香港浸会大学，计算机科学系，访问研究学者
 - *2023/12 - 2026/01*: 广东工业大学，计算机学院，副教授
