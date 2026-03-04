@@ -371,7 +371,7 @@ TPAMI'22</span>
         <div style="color: #64748b; font-size: 0.9em;">
           <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
           <span id="busuanzi_container_site_pv" style="display:none;">
-            👀 本站总访问量: <span id="busuanzi_value_site_pv" style="font-weight: bold; color: #475569;"></span> 次
+            👀 总访问量: <span id="busuanzi_value_site_pv" style="font-weight: bold; color: #475569;"></span> 次
           </span>
         </div>
         
