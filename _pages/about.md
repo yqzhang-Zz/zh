@@ -50,8 +50,7 @@ redirect_from:
 - *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://ieeexplore.ieee.org/abstract/document/11007519)”（TNNLS 2025）入选ESI高被引。
 - *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
   
-  ... ... 查看历史新闻请点[这里](/zh-news/) ... ...
-
+  ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
 <span class='anchor' id="publications"></span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📝 论文</h1>
@@ -267,7 +266,8 @@ TPAMI'22</span>
 [Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
-  ... ... 完整论文列表请点[这里](/zh-publications/)或访问：[DBLP](https://dblp.org/pid/125/5587-6.html) &#124; [谷歌学术](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN) ... ...
+  ... ... 完整论文列表请点<a href="/zh-publications/" target="_self">这里</a>或访问：[DBLP](https://dblp.org/pid/125/5587-6.html) &#124; [谷歌学术](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN) ... ...
+
 
 <span class='anchor' id="honors-and-awards"></span>
 
