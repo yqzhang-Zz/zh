@@ -496,7 +496,7 @@ TPAMI'22</span>
     
     <div class="action-item">
       <a href="#" target="_blank" class="action-btn">
-        <i class="fas fa-folder-open"></i> 教学材料下载
+        <i class="fas fa-folder-open">https://pan.baidu.com/s/1jhnbKzCGeFiAL8VeMdv5uQ</i> 教学材料下载
       </a>
       <span class="update-date"><i class="far fa-clock"></i> 2026.03.11 更新</span>
     </div>
@@ -518,7 +518,7 @@ TPAMI'22</span>
   </div>
 
   <div class="secret-code">
-    <i class="fas fa-key"></i> <strong>资料提取码：</strong>上课教室编号 + 本班实到总人数（共6位纯数字）
+    <i class="fas fa-key"></i> <strong>提取码：</strong>课堂公布（共4位纯数字）
   </div>
 
   <div class="course-history">
