@@ -469,12 +469,12 @@ TPAMI'22</span>
   </div>
   
   <div class="course-current">
-    面向群体：2024级 计算机科学与技术（伏羲班）
+    授课班级：2024级 计算机科学与技术（伏羲班）
   </div>
   
   <div class="action-buttons">
     <a href="#" target="_blank" class="action-btn">
-      <i class="fas fa-folder-open"></i> 课件下载
+      <i class="fas fa-folder-open"></i> 教学材料下载
     </a>
     
     <a href="javascript:void(0);" class="action-btn disabled">
@@ -491,29 +491,29 @@ TPAMI'22</span>
   </div>
 
   <div class="course-history">
-    <strong>历史授课：</strong>2024年春 (22级伏羲班) ｜ 2023年春 (21级伏羲班) ｜ 2022年秋 (20级国际班)
+    <strong>历史授课：</strong>2024年春 (22级计科伏羲班) ｜ 2023年春 (21级计科伏羲班) ｜ 2022年秋 (20级计科国际班)
   </div>
 </div>
 
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春 (20级伏羲班) ｜ 2021年秋 (19级国际班)</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春 (20级计科伏羲班) ｜ 2021年秋 (19级计科国际班)</span>
 </div>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能通识</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋 ｜ 2024年秋 ｜ 2023年秋</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋（25级会计） ｜ 2024年秋（24级工商管理） ｜ 2023年秋（23级法学）</span>
 </div>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习 (Machine Learning)</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春（19级金属材料工程）</span>
 </div>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 模式识别 (Pattern Recognition)</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春（20级计科留学生班）</span>
 </div>
 
 <br>
