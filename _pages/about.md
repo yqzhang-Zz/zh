@@ -495,6 +495,8 @@ TPAMI'22</span>
     <span class="update-date"><i class="far fa-clock"></i> 尚未开放</span>
   </div>
 
+  </div>
+
   <div class="secret-code">
     <i class="fas fa-key"></i> <strong>资料提取码：</strong>上课教室编号 + 本班实到总人数（共6位纯数字）
   </div>
