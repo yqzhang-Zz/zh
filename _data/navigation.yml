@@ -25,6 +25,9 @@ main:
   - title: "特邀报告"
     url: "/zh/#invited-talks"
 
+  - title: "教学"
+    url: "/zh/#teaching"    
+
   - title: "关于OMG"
     url: "/zh-OMG"
 
