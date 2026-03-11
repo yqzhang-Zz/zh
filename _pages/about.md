@@ -302,7 +302,8 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）
+- *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士<br>
+<br><span style="font-size: 0.85em; color: #666;">（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）</span>
 - *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
 - *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
 - *2006/09 - 2009/07*: 深圳市红岭中学，理科班
