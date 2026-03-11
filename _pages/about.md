@@ -384,29 +384,35 @@ TPAMI'22</span>
     display: flex;
     gap: 16px;
     flex-wrap: wrap;
-    margin-top: 14px;
+    margin-top: 16px;
     margin-bottom: 8px;
+    align-items: flex-start; /* 保证高度不一的时候顶部对齐 */
   }
+  
+  /* 每个操作项变为一个独立的小纵列 */
   .action-item {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 6px;
+    flex: 1; /* 让三个框平分宽度 */
+    min-width: 220px; /* 手机端会自动折行，保证排版不被挤压 */
+    gap: 8px;
   }
+  
   .action-btn {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     color: #1A365D;
     font-weight: 600;
     text-decoration: none;
     background-color: #edf2f7;
     border: 1px solid #cbd5e1;
-    padding: 6px 14px;
+    padding: 8px 14px;
     border-radius: 6px;
     transition: all 0.2s ease;
     font-size: 0.9em;
     width: 100%;
-    justify-content: center;
+    box-sizing: border-box;
   }
   .action-btn:hover {
     background-color: #e2e8f0;
@@ -418,17 +424,6 @@ TPAMI'22</span>
   .action-btn i {
     margin-right: 6px;
     color: #2b6cb0;
-  }
-  
-  /* 更新日期小字样式 */
-  .update-date {
-    font-size: 0.75em;
-    color: #94a3b8;
-    letter-spacing: 0.5px;
-  }
-  .update-date i {
-    font-size: 0.9em;
-    margin-right: 3px;
   }
   
   /* 置灰的不可点击状态样式 */
@@ -444,22 +439,31 @@ TPAMI'22</span>
     background-color: #f1f5f9;
     border-color: #e2e8f0;
     transform: none;
-    box-shadow: none;
   }
   .action-btn.disabled i {
     color: #a1a1aa;
   }
   
-  /* 暗号提示样式 */
-  .secret-code {
+  /* ================= 新增：合并后的信息框样式 ================= */
+  .info-box {
     font-size: 0.85em;
-    color: #c53030;
-    background-color: #fff5f5;
-    padding: 6px 10px;
+    padding: 10px 12px;
     border-radius: 4px;
-    display: inline-block;
-    margin-top: 12px;
+    width: 100%;
+    box-sizing: border-box;
+    line-height: 1.6;
+  }
+  /* 开放状态：粉色火热视效 */
+  .info-box.active {
+    background-color: #fff5f5;
     border-left: 3px solid #fc8181;
+    color: #c53030;
+  }
+  /* 未开放状态：冰蓝色冷酷视效 */
+  .info-box.inactive {
+    background-color: #f0f8ff; 
+    border-left: 3px solid #63b3ed;
+    color: #2b6cb0;
   }
   
   .course-history {
@@ -468,7 +472,7 @@ TPAMI'22</span>
     line-height: 1.6;
     border-top: 1px dashed #e2e8f0;
     padding-top: 10px;
-    margin-top: 16px;
+    margin-top: 20px;
   }
   
   /* 极简历史课程列表样式 */
@@ -495,58 +499,14 @@ TPAMI'22</span>
   <div class="action-buttons">
     
     <div class="action-item">
-      <a href="#" target="_blank" class="action-btn">
-        <i class="fas fa-folder-open">https://pan.baidu.com/s/1jhnbKzCGeFiAL8VeMdv5uQ</i> 教学材料下载
+      <a href="https://pan.baidu.com/s/1jhnbKzCGeFiAL8VeMdv5uQ" target="_blank" class="action-btn">
+        <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
-      <span class="update-date"><i class="far fa-clock"></i> 2026.03.11 更新</span>
+      <div class="info-box active">
+        <strong>🔥 2026.03.11 更新</strong><br>
+        <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布(4位纯数字)
+      </div>
     </div>
-
-    <div class="action-item">
-      <a href="javascript:void(0);" class="action-btn disabled">
-        <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
-      </a>
-      <span class="update-date"><i class="far fa-clock"></i> 尚未发布</span>
-    </div>
-
-    <div class="action-item">
-      <a href="javascript:void(0);" class="action-btn disabled">
-        <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
-      </a>
-      <span class="update-date"><i class="far fa-clock"></i> 尚未开放</span>
-    </div>
-
-  </div>
-
-  <div class="secret-code">
-    <i class="fas fa-key"></i> <strong>提取码：</strong>课堂公布（共4位纯数字）
-  </div>
-
-  <div class="course-history">
-    <strong>历史授课：</strong>2024年春 (22级计科伏羲班) ｜ 2023年春 (21级计科伏羲班) ｜ 2022年秋 (20级计科国际班)
-  </div>
-</div>
-
-
-<div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春 (20级计科伏羲班) ｜ 2021年秋 (19级计科国际班)</span>
-</div>
-
-<div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能通识</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋（25级会计） ｜ 2024年秋（24级工商管理） ｜ 2023年秋（23级法学）</span>
-</div>
-
-<div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习 (Machine Learning)</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春（19级金属材料工程）</span>
-</div>
-
-<div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 模式识别 (Pattern Recognition)</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春（20级计科留学生班）</span>
-</div>
-
 <br>
 <br>
 <br>
