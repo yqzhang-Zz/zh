@@ -473,17 +473,26 @@ TPAMI'22</span>
   </div>
   
   <div class="action-buttons">
+
+  <div class="action-item">
     <a href="#" target="_blank" class="action-btn">
       <i class="fas fa-folder-open"></i> 教学材料下载
     </a>
-    
+    <span class="update-date"><i class="far fa-clock"></i> 2026.03.11 更新</span>
+  </div>
+
+  <div class="action-buttons">
     <a href="javascript:void(0);" class="action-btn disabled">
       <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
     </a>
-    
+    <span class="update-date"><i class="far fa-clock"></i> 尚未发布</span>
+  </div>
+
+  <div class="action-item">
     <a href="javascript:void(0);" class="action-btn disabled">
       <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
     </a>
+    <span class="update-date"><i class="far fa-clock"></i> 尚未开放</span>
   </div>
 
   <div class="secret-code">
