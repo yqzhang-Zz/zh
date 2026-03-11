@@ -390,35 +390,61 @@ TPAMI'22</span>
   .course-current {
     font-size: 0.95em;
     margin-bottom: 8px;
+    color: #4a5568;
   }
-  .download-link {
-    display: inline-block;
-    color: #2b6cb0;
+  
+  /* 新增：功能按钮矩阵样式 */
+  .action-buttons {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+    margin-bottom: 6px;
+  }
+  .action-btn {
+    display: inline-flex;
+    align-items: center;
+    color: #1A365D;
     font-weight: 600;
     text-decoration: none;
-    background-color: #ebf8ff;
-    padding: 4px 12px;
-    border-radius: 4px;
-    transition: background 0.2s;
+    background-color: #edf2f7;
+    border: 1px solid #cbd5e1;
+    padding: 6px 14px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    font-size: 0.9em;
   }
-  .download-link:hover {
-    background-color: #bee3f8;
+  .action-btn:hover {
+    background-color: #e2e8f0;
+    border-color: #a0aec0;
     text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   }
+  .action-btn i {
+    margin-right: 6px;
+    color: #2b6cb0;
+  }
+  
+  /* 新增：暗号提示样式 */
+  .secret-code {
+    font-size: 0.85em;
+    color: #c53030;
+    background-color: #fff5f5;
+    padding: 6px 10px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 8px;
+    border-left: 3px solid #fc8181;
+  }
+  
   .course-history {
     font-size: 0.85em;
     color: #718096;
     line-height: 1.6;
     border-top: 1px dashed #e2e8f0;
-    padding-top: 8px;
-    margin-top: 8px;
-  }
-  .course-simple {
-    margin-bottom: 12px;
-    padding-left: 12px;
-  }
-  .course-simple strong {
-    color: #2d3748;
+    padding-top: 10px;
+    margin-top: 12px;
   }
 </style>
 
@@ -427,14 +453,27 @@ TPAMI'22</span>
     人工智能（全英/双语） 
     <span class="status-badge">2026 春季授课中</span>
   </div>
+  
   <div class="course-current">
-    面向群体：2024级 计算机科学与技术（伏羲班）<br>
-    <span style="display: inline-block; margin-top: 8px;">
-      <a href="https://pan.baidu.com/s/您的网盘链接" target="_blank" class="download-link">
-        <i class="fas fa-cloud-download-alt"></i> 获取课程课件及材料 (提取码: xxxx)
-      </a>
-    </span>
+    面向群体：2024级 计算机科学与技术（伏羲班）
   </div>
+  
+  <div class="action-buttons">
+    <a href="您的网盘链接" target="_blank" class="action-btn">
+      <i class="fas fa-folder-open"></i> 课件下载
+    </a>
+    <a href="您的作业布置链接" target="_blank" class="action-btn">
+      <i class="fas fa-file-signature"></i> 作业要求
+    </a>
+    <a href="您的作业提交链接" target="_blank" class="action-btn">
+      <i class="fas fa-cloud-upload-alt"></i> 提交作业
+    </a>
+  </div>
+
+  <div class="secret-code">
+    <i class="fas fa-key"></i> <strong>资料提取码：</strong>上课教室编号 + 本班实到总人数（共6位纯数字）
+  </div>
+
   <div class="course-history">
     <strong>历史授课：</strong>2024年春 (22级伏羲班) ｜ 2023年春 (21级伏羲班) ｜ 2022年秋 (20级国际班)
   </div>
