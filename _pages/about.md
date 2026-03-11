@@ -524,7 +524,7 @@ TPAMI'22</span>
       </a>
       <div class="info-box inactive">
         <strong>❄️ 尚未开放</strong><br>
-        <i class="fas fa-key" style="margin-top: 4px;"></i> 
+        &emsp;
       </div>
     </div>
 
