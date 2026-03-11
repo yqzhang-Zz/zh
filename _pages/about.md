@@ -513,7 +513,7 @@ TPAMI'22</span>
         <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
       </a>
       <div class="info-box inactive">
-        <strong>🧊 尚未发布</strong><br>
+        <strong>❄️ 尚未发布</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：待定
       </div>
     </div>
@@ -523,8 +523,7 @@ TPAMI'22</span>
         <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
       </a>
       <div class="info-box inactive">
-        <strong>🧊 尚未开放</strong><br>
-        <i class="fas fa-key" style="margin-top: 4px;"></i> 提交密码：待定
+        <strong>❄️ 尚未开放</strong>
       </div>
     </div>
 
