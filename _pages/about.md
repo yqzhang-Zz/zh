@@ -379,13 +379,19 @@ TPAMI'22</span>
     color: #4a5568;
   }
   
-  /* 功能按钮矩阵样式 */
+  /* 功能按钮矩阵与包裹容器样式 */
   .action-buttons {
     display: flex;
-    gap: 12px;
+    gap: 16px;
     flex-wrap: wrap;
     margin-top: 14px;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
+  }
+  .action-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
   }
   .action-btn {
     display: inline-flex;
@@ -399,6 +405,8 @@ TPAMI'22</span>
     border-radius: 6px;
     transition: all 0.2s ease;
     font-size: 0.9em;
+    width: 100%;
+    justify-content: center;
   }
   .action-btn:hover {
     background-color: #e2e8f0;
@@ -410,6 +418,17 @@ TPAMI'22</span>
   .action-btn i {
     margin-right: 6px;
     color: #2b6cb0;
+  }
+  
+  /* 更新日期小字样式 */
+  .update-date {
+    font-size: 0.75em;
+    color: #94a3b8;
+    letter-spacing: 0.5px;
+  }
+  .update-date i {
+    font-size: 0.9em;
+    margin-right: 3px;
   }
   
   /* 置灰的不可点击状态样式 */
@@ -439,7 +458,7 @@ TPAMI'22</span>
     padding: 6px 10px;
     border-radius: 4px;
     display: inline-block;
-    margin-top: 8px;
+    margin-top: 12px;
     border-left: 3px solid #fc8181;
   }
   
@@ -449,7 +468,7 @@ TPAMI'22</span>
     line-height: 1.6;
     border-top: 1px dashed #e2e8f0;
     padding-top: 10px;
-    margin-top: 12px;
+    margin-top: 16px;
   }
   
   /* 极简历史课程列表样式 */
@@ -462,6 +481,7 @@ TPAMI'22</span>
   }
 </style>
 
+
 <div class="course-card">
   <div class="course-title">
     人工智能（全英/双语） 
@@ -473,27 +493,27 @@ TPAMI'22</span>
   </div>
   
   <div class="action-buttons">
+    
+    <div class="action-item">
+      <a href="#" target="_blank" class="action-btn">
+        <i class="fas fa-folder-open"></i> 教学材料下载
+      </a>
+      <span class="update-date"><i class="far fa-clock"></i> 2026.03.11 更新</span>
+    </div>
 
-  <div class="action-item">
-    <a href="#" target="_blank" class="action-btn">
-      <i class="fas fa-folder-open"></i> 教学材料下载
-    </a>
-    <span class="update-date"><i class="far fa-clock"></i> 2026.03.11 更新</span>
-  </div>
+    <div class="action-item">
+      <a href="javascript:void(0);" class="action-btn disabled">
+        <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
+      </a>
+      <span class="update-date"><i class="far fa-clock"></i> 尚未发布</span>
+    </div>
 
-  <div class="action-buttons">
-    <a href="javascript:void(0);" class="action-btn disabled">
-      <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
-    </a>
-    <span class="update-date"><i class="far fa-clock"></i> 尚未发布</span>
-  </div>
-
-  <div class="action-item">
-    <a href="javascript:void(0);" class="action-btn disabled">
-      <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
-    </a>
-    <span class="update-date"><i class="far fa-clock"></i> 尚未开放</span>
-  </div>
+    <div class="action-item">
+      <a href="javascript:void(0);" class="action-btn disabled">
+        <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
+      </a>
+      <span class="update-date"><i class="far fa-clock"></i> 尚未开放</span>
+    </div>
 
   </div>
 
