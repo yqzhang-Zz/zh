@@ -308,20 +308,6 @@ TPAMI'22</span>
 - *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
 - *2006/09 - 2009/07*: 深圳市红岭中学，理科班
 
-<span class='anchor' id="invited-talks"></span>
-
-<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💬 特邀报告</h1>
-<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
-  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
-</div>
-
-- *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
-- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
-- *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
-- *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
-- *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
-
 <span class='anchor' id="internships"></span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💻 工作经历</h1>
@@ -336,6 +322,22 @@ TPAMI'22</span>
 - *2022/09 - 2023/12*: 广东工业大学，计算机学院，特聘副教授
 - *2020/10 - 2022/09*: 广东工业大学，计算机学院，讲师
 - *2019/09 - 2021/02*: 香港浸会大学，计算机科学系，博士后
+
+
+<span class='anchor' id="invited-talks"></span>
+
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">💬 特邀报告</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
+- *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
+- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
+- *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
+- *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
+- *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
+
 <br>
 <br>
 <br>
