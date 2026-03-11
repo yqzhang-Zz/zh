@@ -499,7 +499,7 @@ TPAMI'22</span>
   <div class="action-buttons">
     
     <div class="action-item">
-      <a href="https://pan.baidu.com/s/1jhnbKzCGeFiAL8VeMdv5uQ" target="_blank" class="action-btn">
+      <a href="https://pan.baidu.com/s/1LfkTSMFejRe7yZ9mHnYL_Q" target="_blank" class="action-btn">
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
