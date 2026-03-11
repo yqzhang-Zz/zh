@@ -347,26 +347,12 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *人工智能（全英/双语）*: 2022年秋-2020级计算机科学与技术（国际班），2023年春-2021级计算机科学与技术（伏羲班），2024年春-2022级计算机科学与技术（伏羲班），2026年春-2024级计算机科学与技术（伏羲班）
-- *人工智能*: 2021年秋-2019级计算机科学与技术（国际班），2022年春-2020级计算机科学与技术（伏羲班）
-- *人工智能通识*: 2023年秋，2024年秋，2025年秋
-- *机器学习*: 2021年春
-- *Pattern Recognition*: 2023年春
-
-
-<span class='anchor' id="teaching"></span>
-<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📖 教学</h1>
-<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
-  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
-  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
-</div>
-
 <style>
   .course-card {
     background-color: #f8fafc;
     border-left: 4px solid #1A365D;
     padding: 16px 20px;
-    margin-bottom: 16px;
+    margin-bottom: 20px;
     border-radius: 0 6px 6px 0;
     box-shadow: 0 1px 3px rgba(0,0,0,0.05);
   }
@@ -393,7 +379,7 @@ TPAMI'22</span>
     color: #4a5568;
   }
   
-  /* 新增：功能按钮矩阵样式 */
+  /* 功能按钮矩阵样式 */
   .action-buttons {
     display: flex;
     gap: 12px;
@@ -426,7 +412,26 @@ TPAMI'22</span>
     color: #2b6cb0;
   }
   
-  /* 新增：暗号提示样式 */
+  /* 置灰的不可点击状态样式 */
+  .action-btn.disabled {
+    background-color: #f1f5f9;
+    color: #a1a1aa;
+    border-color: #e2e8f0;
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+  }
+  .action-btn.disabled:hover {
+    background-color: #f1f5f9;
+    border-color: #e2e8f0;
+    transform: none;
+    box-shadow: none;
+  }
+  .action-btn.disabled i {
+    color: #a1a1aa;
+  }
+  
+  /* 暗号提示样式 */
   .secret-code {
     font-size: 0.85em;
     color: #c53030;
@@ -446,6 +451,15 @@ TPAMI'22</span>
     padding-top: 10px;
     margin-top: 12px;
   }
+  
+  /* 极简历史课程列表样式 */
+  .course-simple {
+    margin-bottom: 12px;
+    padding-left: 12px;
+  }
+  .course-simple strong {
+    color: #2d3748;
+  }
 </style>
 
 <div class="course-card">
@@ -459,14 +473,16 @@ TPAMI'22</span>
   </div>
   
   <div class="action-buttons">
-    <a href="您的网盘链接" target="_blank" class="action-btn">
+    <a href="#" target="_blank" class="action-btn">
       <i class="fas fa-folder-open"></i> 课件下载
     </a>
-    <a href="您的作业布置链接" target="_blank" class="action-btn">
-      <i class="fas fa-file-signature"></i> 作业要求
+    
+    <a href="javascript:void(0);" class="action-btn disabled">
+      <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
     </a>
-    <a href="您的作业提交链接" target="_blank" class="action-btn">
-      <i class="fas fa-cloud-upload-alt"></i> 提交作业
+    
+    <a href="javascript:void(0);" class="action-btn disabled">
+      <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
     </a>
   </div>
 
@@ -478,6 +494,7 @@ TPAMI'22</span>
     <strong>历史授课：</strong>2024年春 (22级伏羲班) ｜ 2023年春 (21级伏羲班) ｜ 2022年秋 (20级国际班)
   </div>
 </div>
+
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
@@ -498,7 +515,6 @@ TPAMI'22</span>
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 模式识别 (Pattern Recognition)</strong><br>
   <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春</span>
 </div>
-
 
 <br>
 <br>
