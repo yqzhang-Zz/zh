@@ -523,7 +523,8 @@ TPAMI'22</span>
         <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
       </a>
       <div class="info-box inactive">
-        <strong>❄️ 尚未开放</strong>
+        <strong>❄️ 尚未开放</strong><br>
+        <i class="fas fa-key" style="margin-top: 4px;"></i> 
       </div>
     </div>
 
