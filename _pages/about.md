@@ -338,6 +338,22 @@ TPAMI'22</span>
 - *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
 - *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
 
+
+<span class='anchor' id="teaching"></span>
+
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📖 教学</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
+- *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
+- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
+- *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
+- *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
+- *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
+
+
 <br>
 <br>
 <br>
