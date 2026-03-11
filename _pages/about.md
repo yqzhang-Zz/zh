@@ -507,6 +507,56 @@ TPAMI'22</span>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布(4位纯数字)
       </div>
     </div>
+
+    <div class="action-item">
+      <a href="javascript:void(0);" class="action-btn disabled">
+        <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
+      </a>
+      <div class="info-box inactive">
+        <strong>🧊 尚未发布</strong><br>
+        <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：待定
+      </div>
+    </div>
+
+    <div class="action-item">
+      <a href="javascript:void(0);" class="action-btn disabled">
+        <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
+      </a>
+      <div class="info-box inactive">
+        <strong>🧊 尚未开放</strong><br>
+        <i class="fas fa-key" style="margin-top: 4px;"></i> 提交密码：待定
+      </div>
+    </div>
+
+  </div>
+
+  <div class="course-history">
+    <strong>历史授课：</strong>2024年春 (22级计科伏羲班) ｜ 2023年春 (21级计科伏羲班) ｜ 2022年秋 (20级计科国际班)
+  </div>
+</div>
+
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春 (20级计科伏羲班) ｜ 2021年秋 (19级计科国际班)</span>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能通识</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋（25级会计） ｜ 2024年秋（24级工商管理） ｜ 2023年秋（23级法学）</span>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习 (Machine Learning)</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春（19级金属材料工程）</span>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 模式识别 (Pattern Recognition)</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春（20级计科留学生班）</span>
+</div>
+
+
 <br>
 <br>
 <br>
