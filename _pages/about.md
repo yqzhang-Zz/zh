@@ -354,6 +354,113 @@ TPAMI'22</span>
 - *Pattern Recognition*: 2023年春
 
 
+<span class='anchor' id="teaching"></span>
+<h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">📖 教学</h1>
+<div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
+  <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
+  <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
+</div>
+
+<style>
+  .course-card {
+    background-color: #f8fafc;
+    border-left: 4px solid #1A365D;
+    padding: 16px 20px;
+    margin-bottom: 16px;
+    border-radius: 0 6px 6px 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .course-title {
+    font-size: 1.15em;
+    font-weight: 700;
+    color: #1A365D;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+  }
+  .status-badge {
+    background-color: #e53e3e;
+    color: white;
+    font-size: 0.7em;
+    padding: 2px 8px;
+    border-radius: 12px;
+    margin-left: 12px;
+    font-weight: normal;
+  }
+  .course-current {
+    font-size: 0.95em;
+    margin-bottom: 8px;
+  }
+  .download-link {
+    display: inline-block;
+    color: #2b6cb0;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #ebf8ff;
+    padding: 4px 12px;
+    border-radius: 4px;
+    transition: background 0.2s;
+  }
+  .download-link:hover {
+    background-color: #bee3f8;
+    text-decoration: none;
+  }
+  .course-history {
+    font-size: 0.85em;
+    color: #718096;
+    line-height: 1.6;
+    border-top: 1px dashed #e2e8f0;
+    padding-top: 8px;
+    margin-top: 8px;
+  }
+  .course-simple {
+    margin-bottom: 12px;
+    padding-left: 12px;
+  }
+  .course-simple strong {
+    color: #2d3748;
+  }
+</style>
+
+<div class="course-card">
+  <div class="course-title">
+    人工智能（全英/双语） 
+    <span class="status-badge">2026 春季授课中</span>
+  </div>
+  <div class="course-current">
+    面向群体：2024级 计算机科学与技术（伏羲班）<br>
+    <span style="display: inline-block; margin-top: 8px;">
+      <a href="https://pan.baidu.com/s/您的网盘链接" target="_blank" class="download-link">
+        <i class="fas fa-cloud-download-alt"></i> 获取课程课件及材料 (提取码: xxxx)
+      </a>
+    </span>
+  </div>
+  <div class="course-history">
+    <strong>历史授课：</strong>2024年春 (22级伏羲班) ｜ 2023年春 (21级伏羲班) ｜ 2022年秋 (20级国际班)
+  </div>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春 (20级伏羲班) ｜ 2021年秋 (19级国际班)</span>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能通识</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋 ｜ 2024年秋 ｜ 2023年秋</span>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习 (Machine Learning)</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春</span>
+</div>
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 模式识别 (Pattern Recognition)</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春</span>
+</div>
+
+
 <br>
 <br>
 <br>
