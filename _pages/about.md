@@ -90,11 +90,11 @@ IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-DOCS'24</span>](papers/DOCS-24-FedCCL.pdf)
+DOCS'24</span>](https://yqzhang-zz.github.io/zh-publications/papers/DOCS-24-FedCCL.pdf)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 IoTJ'26</span>](https://arxiv.org/pdf/2601.17512)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-INS'25</span>](papers/INS-Fed-Auto-k-HC.pdf)
+INS'25</span>](https://yqzhang-zz.github.io/zh-publications/papers/INS-Fed-Auto-k-HC.pdf)
 
 - **异构联邦学习**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
