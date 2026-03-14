@@ -521,15 +521,14 @@ TPAMI'22</span>
 </div>
 
 <div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春（19级金属材料工程）</span>
-</div>
-
-<div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> Pattern Recognition（模式识别，全英）</strong><br>
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> Pattern Recognition（全英）</strong><br>
   <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春（21级计科全英班）</span>
 </div>
 
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春（19级金属材料工程）</span>
+</div>
 
 <br>
 <br>
