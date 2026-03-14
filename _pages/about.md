@@ -458,7 +458,7 @@ TPAMI'22</span>
 
 <div class="course-card">
   <div class="course-title">
-    人工智能（全英/双语） 
+    人工智能（双语） 
     <span class="status-badge">2026 春季授课中</span>
   </div>
   
@@ -501,10 +501,14 @@ TPAMI'22</span>
   </div>
 
   <div class="course-history">
-    <strong>历史授课：</strong>2024年春 (22级计科伏羲班) ｜ 2023年春 (21级计科伏羲班) ｜ 2022年秋 (20级计科国际班)
+    <strong>历史授课：</strong>2024年春 (22级计科伏羲班) ｜ 2023年春 (21级计科伏羲班)
   </div>
 </div>
 
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能（全英）</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年秋 (20级计科国际班)</span>
+</div>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
@@ -513,17 +517,17 @@ TPAMI'22</span>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能通识</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋（25级会计） ｜ 2024年秋（24级工商管理） ｜ 2023年秋（23级法学）</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2025年秋（25级会计，25级土地资源管理） ｜ 2024年秋（24级工商管理） ｜ 2023年秋（23级法学，23级会计）</span>
 </div>
 
 <div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习 (Machine Learning)</strong><br>
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 机器学习</strong><br>
   <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2021年春（19级金属材料工程）</span>
 </div>
 
 <div class="course-simple">
-  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 模式识别 (Pattern Recognition)</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春（20级计科留学生班）</span>
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> Pattern Recognition（模式识别，全英）</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2023年春（21级计科全英班）</span>
 </div>
 
 
