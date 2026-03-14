@@ -193,7 +193,7 @@ SIGMOD'26</span>
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR'26</span> 
-SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning(#)<br>
+[SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](#)<br>
 Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu<sup>&#x2709;</sup>
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
