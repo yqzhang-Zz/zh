@@ -47,7 +47,7 @@ redirect_from:
 - *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选ESI高被引。
+- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)”（TNNLS 2025）入选ESI高被引。
 - *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
@@ -88,7 +88,7 @@ IJCAI'22</span>](https://www.ijcai.org/proceedings/2022/522)
   
 - **联邦聚类分析**<br>
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-IoTJ'26</span>](https://arxiv.org/pdf/2601.17512)
+IoTJ'26</span>](https://arxiv.org/abs/2601.17512)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -128,7 +128,7 @@ TETCI'26</span>](https://arxiv.org/abs/2603.06757)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 AAAI'25</span>](https://ojs.aaai.org/index.php/AAAI/article/view/34429)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span>](https://arxiv.org/pdf/2404.09243)
+TNNLS'25</span>](https://arxiv.org/abs/2404.09243)
 [<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'25</span>](https://ieeexplore.ieee.org/abstract/document/11274409)
   
