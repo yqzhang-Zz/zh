@@ -473,7 +473,7 @@ TPAMI'22</span>
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.03.11 更新</strong><br>
+        <strong>🔥 2026.03.18 更新</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布（4位纯数字）
       </div>
     </div>
