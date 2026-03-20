@@ -65,7 +65,7 @@ redirect_from:
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 SIGMOD'26</span>](https://dl.acm.org/doi/abs/10.1145/3769772)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'26</span>](https://arxiv.org/abs/2511.09049)
+AAAI'26</span>](https://ojs.aaai.org/index.php/AAAI/article/view/40104)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 ICDCS'24</span>](https://arxiv.org/abs/2601.16491)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
@@ -114,7 +114,7 @@ TNNLS'25</span>](https://ieeexplore.ieee.org/abstract/document/10373104)
   
 - **时序数据分析与应用**<br>
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-AAAI'26</span>](https://arxiv.org/abs/2511.17008)
+AAAI'26</span>](https://ojs.aaai.org/index.php/AAAI/article/view/39777)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 BIBM'25</span>](https://arxiv.org/abs/2510.12214)
 [<span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
