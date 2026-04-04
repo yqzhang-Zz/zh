@@ -44,11 +44,12 @@ redirect_from:
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学、以及卢杨教授！
+- *2026/03*: &nbsp;🎉 本人被评为广东工业大学2025年**创新创业教育工作优秀导师**。
+- *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学以及卢杨教授！
+- *2026/01*: &nbsp;🎉 本人被评为广东工业大学2025年度**优秀研究生导师**。
 - *2026/01*: &nbsp;🎉 一篇论文被**DASFAA 2026**录用为长文，恭喜陈俊仰同学！
 - *2026/01*: &nbsp;🎉 两篇论文被**ICASSP 2026**录用，恭喜邱淑洁和陈泰熙同学！
-- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/abs/2404.09243)”（TNNLS 2025）入选ESI高被引。
-- *2025/12*: &nbsp;🎉 两篇论文被**IoTJ**接收。
+- *2026/01*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选ESI高被引（2026/01 &#124; 2026/03）。
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
 <span class='anchor' id="publications"></span>
