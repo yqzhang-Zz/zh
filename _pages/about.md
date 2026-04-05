@@ -40,7 +40,7 @@ redirect_from:
 
 <div style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0b5394; border-radius: 6px; padding: 15px; margin: 1.5em 0; line-height: 1.6;">
   <div style="color: #94a3b8; text-decoration: line-through; font-size: 0.9em; margin-bottom: 8px;">
-    <strong>📢 [2025.09.01]：</strong>本人的开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（招生详情和课题组简介见<a href="/zh-OMG/" target="_self" style="color: #94a3b8;"><strong>关于OMG</strong></a>）。
+    <strong>📢 [2025.09.01]：</strong>开放环境机器学习课题组（Open-environment Machine learning Group, 简称OMG）长期招收和培养对科学研究感兴趣的保研生、考研生、本科科研生（招生详情和课题组简介见<a href="/zh-OMG/" target="_self" style="color: #94a3b8;"><strong>关于OMG</strong></a>）。
   </div>
   <div style="color: #0b5394; font-size: 0.95em;">
     <strong>📢 [2026.04.01]：</strong>2026年入组的研究生和本科科研生暂已招满，谢谢关注！OMG预计将于 <strong>2026年9月</strong> 开启2027级<strong>保研生招生</strong>工作；将于 <strong>2026年7月</strong> 释放1-2个<strong>本科科研生招生</strong>名额。敬请留意<a href="/zh-OMG/" target="_self" style="color: #94a3b8;"><strong>OMG最新动态</strong></a>。
