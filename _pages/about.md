@@ -493,11 +493,11 @@ TPAMI'22</span>
 
     <div class="action-item">
       <a href="javascript:void(0);" class="action-btn disabled">
-        <i class="fas fa-file-signature"></i> 作业1要求 (待发布)
+        <i class="fas fa-file-signature"></i> 作业题目和要求
       </a>
-      <div class="info-box inactive">
-        <strong>❄️ 尚未发布</strong><br>
-        <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：待定
+      <div class="info-box active">
+        <strong>🔥 2026.04.15 发布</strong><br>
+        <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布（4位纯数字）
       </div>
     </div>
 
