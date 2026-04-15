@@ -486,7 +486,7 @@ TPAMI'22</span>
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.04.04 更新自制“搜索(Search)”课件</strong><br>
+        <strong>🔥 2026.04.15 更新“遗传算法”课件</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布（4位纯数字）
       </div>
     </div>
@@ -496,14 +496,14 @@ TPAMI'22</span>
         <i class="fas fa-file-signature"></i> 作业题目和要求
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.04.15 发布</strong><br>
+        <strong>🔥 2026.04.15 发布作业题目和要求</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布（4位纯数字）
       </div>
     </div>
 
     <div class="action-item">
       <a href="javascript:void(0);" class="action-btn disabled">
-        <i class="fas fa-cloud-upload-alt"></i> 作业1提交 (未开放)
+        <i class="fas fa-cloud-upload-alt"></i> 作业提交 (未开放)
       </a>
       <div class="info-box inactive">
         <strong>❄️ 尚未开放</strong><br>
