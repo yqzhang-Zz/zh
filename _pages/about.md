@@ -492,7 +492,7 @@ TPAMI'22</span>
     </div>
 
     <div class="action-item">
-      <a href="javascript:void(0);" class="action-btn disabled">
+      <a href="https://pan.baidu.com/s/1LfkTSMFejRe7yZ9mHnYL_Q" target="_blank" class="action-btn">
         <i class="fas fa-file-signature"></i> 作业题目和要求
       </a>
       <div class="info-box active">
