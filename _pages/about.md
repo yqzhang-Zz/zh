@@ -488,7 +488,7 @@ TPAMI'22</span>
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.04.15 更新“遗传算法”课件</strong><br>
+        <strong>🔥 2026.04.22 更新“蚁群算法”交互演示程序</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布（4位纯数字）
       </div>
     </div>
