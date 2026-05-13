@@ -490,7 +490,7 @@ TPAMI'22</span>
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.04.22 更新“蚁群算法”交互演示程序</strong><br>
+        <strong>🔥 2026.04.22 更新“机器学习”系列课件</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i> 提取码：课堂公布（4位纯数字）
       </div>
     </div>
