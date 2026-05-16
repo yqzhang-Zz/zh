@@ -57,12 +57,11 @@ redirect_from:
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
+- *2026/05*: &nbsp;🎉🎉 一篇论文被**SIGKDD 2026**录用，恭喜谢涛同学！
 - *2026/05*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）持续入选ESI高被引（2026/01 &#124; 2026/03 &#124; 2026/05）。
 - *2026/04*: &nbsp;🎉🎉 一篇论文被**ICML 2026**录用，恭喜李梦柯教授！
 - *2026/04*: &nbsp;🎉 OMG本科生团队获得“华商智演·全球AI场景实战创新大赛”**特等奖**，恭喜团队同学！
 - *2026/03*: &nbsp;🎉 本人被评为广东工业大学2025年**创新创业教育工作优秀导师**。
-- *2026/02*: &nbsp;🎉🎉 两篇论文被**CVPR 2026**录用，恭喜刘赫昭和侯世豪同学以及卢杨教授！
-- *2026/01*: &nbsp;🎉 本人被评为广东工业大学2025年度**优秀研究生导师**。
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
 <span class='anchor' id="publications"></span>
