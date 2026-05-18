@@ -316,6 +316,7 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
+- *2026/05*: 香港华商教育集团，大模型时代的高教与双创重塑
 - *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
 - *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
 - *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
