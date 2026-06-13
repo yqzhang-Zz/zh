@@ -507,7 +507,7 @@ TPAMI'22</span>
 
     <div class="action-item">
       <a href="https://yunbiz.wps.cn/c/collect/c7lXb24IVxy">
-        <i class="fas fa-cloud-upload-alt"></i> 作业提交
+        <i class="fas fa-file-signature"></i> 作业提交
       </a>
       <div class="info-box active">
         <strong>🔥 2026.06.13 开放作业提交入口</strong><br>
