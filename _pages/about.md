@@ -506,12 +506,12 @@ TPAMI'22</span>
     </div>
 
     <div class="action-item">
-      <a href="javascript:void(0);" class="action-btn disabled">
-        <i class="fas fa-cloud-upload-alt"></i> 作业提交 (未开放)
+      <a href="https://yunbiz.wps.cn/c/collect/c7lXb24IVxy">
+        <i class="fas fa-cloud-upload-alt"></i> 作业提交
       </a>
-      <div class="info-box inactive">
-        <strong>❄️ 尚未开放</strong><br>
-        &emsp;
+      <div class="info-box active">
+        <strong>🔥 2026.06.13 开放作业提交入口</strong><br>
+        <i class="fas fa-stopwatch" style="margin-top: 4px;"></i> 截止时间：6月18日上午10:25
       </div>
     </div>
 
