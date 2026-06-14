@@ -56,14 +56,12 @@ redirect_from:
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-<!--
+
+- *2026/05*: &nbsp;🎉🎉 一篇论文被**TMM**接收，恭喜陈姝同学和卢杨教授！
 - *2026/06*: &nbsp;🎉 OMG本科生获批主持2项**国家级大创项目**，恭喜杨梓华和肖豪奕同学！
--->
 - *2026/05*: &nbsp;🎉 一篇综述论文被**TAI**接收，恭喜张云帆同学！
 - *2026/05*: &nbsp;🎉 一篇论文被**ECML-PKDD 2026**录用，恭喜张楚瑶同学！
 - *2026/05*: &nbsp;🎉🎉 一篇论文被**SIGKDD 2026**录用，恭喜谢涛同学！
-- *2026/05*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）持续入选ESI高被引（2026/01 &#124; 2026/03 &#124; 2026/05）。
-- *2026/04*: &nbsp;🎉🎉 一篇论文被**ICML 2026**录用，恭喜李梦柯教授！
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
 <span class='anchor' id="publications"></span>
