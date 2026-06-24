@@ -57,7 +57,7 @@ redirect_from:
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *2026/06*: &nbsp;🎉 一篇论文被**TETCI**接收，恭喜陈欣禧和陈俊仰同学！
+- *2026/06*: &nbsp;🎉🎉 本人获得**IEEE TETCI杰出副主编奖**！
 - *2026/06*: &nbsp;🎉🎉 一篇论文被**TMM**接收，恭喜陈姝同学和卢杨教授！
 - *2026/06*: &nbsp;🎉 OMG本科生获批主持2项**国家级大创项目**，恭喜杨梓华和肖豪奕同学！
 - *2026/05*: &nbsp;🎉 一篇综述论文被**TAI**接收，恭喜张云帆同学！
