@@ -13,11 +13,8 @@ main:
   - title: "荣誉与获奖"
     url: "/zh/#honors-and-awards"
 
-  - title: "教育背景"
+  - title: "背景经历"
     url: "/zh/#educations"
-
-  - title: "工作经历"
-    url: "/zh/#internships"   
 
   - title: "特邀报告"
     url: "/zh/#invited-talks"
