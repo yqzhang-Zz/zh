@@ -49,8 +49,6 @@ redirect_from:
   </div>
 </div>
 
-<span class='anchor' id="news"></span>
-
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🔥 新闻</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
