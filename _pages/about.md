@@ -485,15 +485,15 @@ TPAMI'22</span>
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.06.29 更新“机器学习”课件：“【NEW】【C0304机器学习模型 动图+归一化】.pptx”</strong><br>
+        <strong>🔥 2026.06.29 更新“机器学习”课件：“【NEW C0304机器学习模型 动图+归一化】.pptx”</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i>  提取码：课堂公布（4位纯数字）
       </div>
     </div>
 
     <div class="action-item">
-      <a href="https://pan.baidu.com/s/1LfkTSMFejRe7yZ9mHnYL_Q" target="_blank" class="action-btn">
+      <div class="action-btn disabled">
         <i class="fas fa-file-signature"></i> 作业题目和要求
-      </a>
+      </div>
       <div class="info-box inactive">
         <strong>❄️ 2026.04.15 发布作业题目和要求</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i>  提取码：课堂公布（4位纯数字）
@@ -501,9 +501,9 @@ TPAMI'22</span>
     </div>
 
     <div class="action-item">
-      <a href="https://yunbiz.wps.cn/c/collect/c7lXb24IVxy" target="_blank" class="action-btn">
+      <div class="action-btn disabled">
         <i class="fas fa-upload"></i> 作业提交
-      </a>
+      </div>
       <div class="info-box inactive">
         <strong>❄️ 2026.06.13 开放作业提交入口</strong><br>
         <i class="fas fa-stopwatch" style="margin-top: 4px;"></i>  截止时间：6月18日上午10:25
