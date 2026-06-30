@@ -485,7 +485,7 @@ TPAMI'22</span>
         <i class="fas fa-folder-open"></i> 教学材料下载
       </a>
       <div class="info-box active">
-        <strong>🔥 2026.06.29 更新“机器学习”动图课件</strong><br>
+        <strong>🔥 2026.06.29 更新“机器学习”课件：“【NEW】【C0304机器学习模型 动图+归一化】.pptx”</strong><br>
         <i class="fas fa-key" style="margin-top: 4px;"></i>  提取码：课堂公布（4位纯数字）
       </div>
     </div>
