@@ -54,6 +54,7 @@ redirect_from:
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
+- *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
 - *2026/08*: &nbsp;🎉 一篇论文被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
 - *2026/08*: &nbsp;🎉 一篇论文被**Pattern Recognition**接收，恭喜李梦柯教授！
 - *2026/07*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）连续4期入选ESI高被引（2026/01 &#124; .. &#124; 2026/07）。
