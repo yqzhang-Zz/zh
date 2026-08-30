@@ -23,14 +23,14 @@ redirect_from:
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域的期刊和会议如**TPAMI, TCYB, TNNLS, SIGMOD, SIGKDD, ICML, CVPR, AAAI, IJCAI, 以及ACM MM**等发表论文逾100篇。
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域的期刊和会议如**TPAMI, TCYB, TNNLS, SIGMOD, SIGKDD, ICML, CVPR, AAAI**等发表论文逾100篇。
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ' target='_blank'><img src="https://img.shields.io/badge/citations-805-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>
 -->
 
-主持**国家自然科学基金2项**（2024、2021）和省部级科研项目5项，入选广东省青年珠江学者（2025）和深圳市高层次人才奖励计划C类（2016-2021）。现担任SCI期刊*IEEE Transactions on Emerging Topics in Computational Intelligence*（TETCI）副主编（Associate Editor）。在科学研究、专业服务、以及人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（Springer ISMIS’18，IEEE CIS Competition'20, IEEE DOCS'24），**IEEE TETCI杰出副主编**，教育部-华为“智能基座”先锋教师称号等。
+主持**国家自然科学基金2项**（2024、2021）和省部级科研项目5项，入选广东省青年珠江学者（2025）和深圳市高层次人才奖励计划C类（2016-2021）。现担任SCI期刊*IEEE Transactions on Emerging Topics in Computational Intelligence*（TETCI）副主编（Associate Editor）。在科学研究、专业服务、以及人才培养方面获得多项荣誉，含广东**省科技进步二等奖**（2023），**最佳论文奖**（Springer ISMIS’18，IEEE CIS Competition'20, IEEE DOCS'24），**IEEE TETCI杰出副主编奖**，教育部-华为“智能基座”先锋教师称号等。
 
 <!--
 <span style="color: #0b5394;">
