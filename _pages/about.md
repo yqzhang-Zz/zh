@@ -470,7 +470,8 @@ TPAMI'22</span>
   }
 </style>
 
-
+<!--
+-------------
 <div class="course-card">
   <div class="course-title">
     人工智能（双语） 
@@ -522,15 +523,22 @@ TPAMI'22</span>
     <strong>历史授课：</strong>2024年春 (22级计科伏羲班) ｜ 2023年春 (21级计科伏羲班)
   </div>
 </div>
+---------------
+-->
+
+<div class="course-simple">
+  <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能（双语）</strong><br>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2026年春（24级计科伏羲班）｜ 2024年春（22级计科伏羲班）｜ 2023年春（21级计科伏羲班）</span>
+</div>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能（全英）</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年秋 (20级计科国际班)</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年秋（20级计科国际班）</span>
 </div>
 
 <div class="course-simple">
   <strong><i class="fas fa-book" style="color: #1A365D; margin-right: 6px;"></i> 人工智能</strong><br>
-  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春 (20级计科伏羲班) ｜ 2021年秋 (19级计科国际班)</span>
+  <span style="color: #718096; font-size: 0.9em; margin-left: 22px;">2022年春（20级计科伏羲班）｜ 2021年秋（19级计科国际班）</span>
 </div>
 
 <div class="course-simple">
