@@ -51,6 +51,7 @@ redirect_from:
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
+- *2026/09*: &nbsp;🎉 一篇论文被**ICDM 2026** BlueSky Track录用，恭喜谢涛同学！
 - *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
 - *2026/08*: &nbsp;🎉 一篇论文被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
 - *2026/08*: &nbsp;🎉 一篇论文被**Pattern Recognition**接收，恭喜李梦柯教授！
