@@ -51,7 +51,7 @@ redirect_from:
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-- *2026/09*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选**ESI热点论文**，并连续5期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/09）。
+- *2026/09*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选**ESI热点论文**（2025/11），并连续5期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/09）。
 - *2026/09*: &nbsp;🎉 两篇论文被**BIBM 2026**录用为Regular Paper，恭喜蔡升宏同学和姬玉柱教授！
 - *2026/09*: &nbsp;🎉🎉🎉 OMG本科科研生保研至**中科院计算所**，恭喜杨梓华同学！
 - *2026/09*: &nbsp;🎉🎉🎉 OMG本科科研生保研（直博）至**南方科技大学**，恭喜谭泽熙同学！
