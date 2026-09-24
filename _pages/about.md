@@ -51,6 +51,8 @@ redirect_from:
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
+- *2026/09*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选**ESI热点论文**，并连续5期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/09）。
+- *2026/09*: &nbsp;🎉 两篇论文被**BIBM 2026**录用为Regular Paper，恭喜蔡升宏同学和姬玉柱教授！
 - *2026/09*: &nbsp;🎉🎉🎉 OMG本科科研生保研至**中科院计算所**，恭喜杨梓华同学！
 - *2026/09*: &nbsp;🎉🎉🎉 OMG本科科研生保研（直博）至**南方科技大学**，恭喜谭泽熙同学！
 - *2026/09*: &nbsp;🎉🎉 一篇论文被**SIGMOD 2027**录用，恭喜王宇同学！
@@ -58,7 +60,7 @@ redirect_from:
 - *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
 - *2026/08*: &nbsp;🎉 一篇论文被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
 - *2026/08*: &nbsp;🎉 一篇论文被**Pattern Recognition**接收，恭喜李梦柯教授！
-- *2026/07*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）连续4期入选ESI高被引（2026/01 &#124; .. &#124; 2026/07）。
+- *2026/07*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）连续4期入选ESI高被引论文（2026/01 &#124; .. &#124; 2026/07）。
 - *2026/06*: &nbsp;🎉🎉 本人获得2025-2026年度**IEEE TETCI杰出副主编奖**。
 - *2026/06*: &nbsp;🎉🎉 一篇论文被**TMM**接收，恭喜陈姝同学和卢杨教授！
 - *2026/06*: &nbsp;🎉 OMG本科生获批主持2项**国家级大创项目**，恭喜杨梓华和肖豪奕同学！
