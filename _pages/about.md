@@ -60,13 +60,7 @@ redirect_from:
 - *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
 - *2026/08*: &nbsp;🎉 一篇论文被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
 - *2026/08*: &nbsp;🎉 一篇论文被**Pattern Recognition**接收，恭喜李梦柯教授！
-- *2026/07*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）连续4期入选ESI高被引论文（2026/01 &#124; .. &#124; 2026/07）。
-- *2026/06*: &nbsp;🎉🎉 本人获得2025-2026年度**IEEE TETCI杰出副主编奖**。
-- *2026/06*: &nbsp;🎉🎉 一篇论文被**TMM**接收，恭喜陈姝同学和卢杨教授！
-- *2026/06*: &nbsp;🎉 OMG本科生获批主持2项**国家级大创项目**，恭喜杨梓华和肖豪奕同学！
-- *2026/05*: &nbsp;🎉 一篇综述论文被**TAI**接收，恭喜张云帆同学！
-- *2026/05*: &nbsp;🎉 一篇论文被**ECML-PKDD 2026**录用，恭喜张楚瑶同学！
-- *2026/05*: &nbsp;🎉🎉 一篇论文被**SIGKDD 2026**录用，恭喜谢涛同学！
+
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
 <span class='anchor' id="publications"></span>
