@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: ''
+excerpt: ''
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
+ap_lang: zh
+ap_section: home
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -15,6 +17,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<nav class="ap-contents" aria-label="页内目录"><a href="#news" target="_self">新闻</a><a href="#publications" target="_self">论文</a><a href="#honors-and-awards" target="_self">荣誉获奖</a><a href="#educations" target="_self">教育背景</a><a href="#internships" target="_self">工作经历</a><a href="#invited-talks" target="_self">特邀报告</a><a href="#teaching" target="_self">教学</a></nav>
 <span class='anchor' id='about-me'></span>
 
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">👨‍🏫 关于我</h1>
@@ -23,7 +26,7 @@ redirect_from:
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域的期刊和会议如**TPAMI, TNNLS, TCYB, SIGMOD, SIGKDD, ICML, CVPR, AAAI**等发表论文逾100篇，含**2篇ESI高被引论文**，**1篇ESI热点论文**。
+本人的主要研究方向包括**机器学习**与**数据科学**的**通用方法研究与行业应用**，研究课题包括：**[异质数据机器学习]** **[弱/无监督联邦学习]** **[非稳态数据分析]** 以及大语言模型在上述领域和行业中的应用。已在相关领域的期刊和会议如**TPAMI, TNNLS, TCYB, SIGMOD, SIGKDD, ICML, CVPR, AAAI**等发表论文{{ site.data.academic_profile.metrics.publications_total.zh_phrase }}，含**2篇ESI高被引论文**，**1篇ESI热点论文**。
 
 <!--
 <a href='https://scholar.google.com/citations?user=EnqM5F4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -46,20 +49,13 @@ redirect_from:
 </div>
 -->
 
+<span class="anchor" id="news"></span>
 <h1 style="border-bottom: none; margin-bottom: 8px; padding-bottom: 0;">🔥 新闻</h1>
 <div style="display: flex; align-items: flex-end; margin-top: 4px; margin-bottom: 20px;">
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-- *2026/09*: &nbsp;🎉🎉🎉 OMG 2023级5位本科科研生**全部成功推免**，恭喜谭泽熙（**南方科技大学直博**），谢涛（**中国科学院大学直博**），杨梓华（**中科院计算所**），王怡欧（**东北大学**）和廖歆（**电子科技大学**）！
-- *2026/09*: &nbsp;🎉🎉 论文“[Learning Self-Growth Maps for…](https://arxiv.org/pdf/2404.09243)”（TNNLS 2025）入选**ESI热点论文**（2026/09），并连续5期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/09）。
-- *2026/09*: &nbsp;🎉🎉 一篇论文被**ICDM 2026** Teen Research Track录用，恭喜朱正和谭泽熙同学！
-- *2026/09*: &nbsp;🎉 两篇论文被**BIBM 2026**录用(Regular Paper)，恭喜蔡升宏同学和姬玉柱教授！
-- *2026/09*: &nbsp;🎉🎉 一篇论文被**SIGMOD 2027**录用，恭喜王宇同学！
-- *2026/09*: &nbsp;🎉 一篇论文被**ICDM 2026** BlueSky Track录用，恭喜谢涛同学！
-- *2026/08*: &nbsp;🎉🎉 一篇论文被**IEEE Computational Intelligence Magazine (CIM)**接收，恭喜黄展培同学和孙宾宾医生！
-- *2026/08*: &nbsp;🎉 一篇论文被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
-- *2026/08*: &nbsp;🎉 一篇论文被**Pattern Recognition**接收，恭喜李梦柯教授！
+{{ site.data.academic_news.markdown }}
 
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
@@ -200,53 +196,53 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
-[Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>
-**Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C048.title }}]({{ site.data.academic_publications_by_id.C048.link }})<br>
+{{ site.data.academic_publications_by_id.C048.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR'26</span> 
-[SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](https://arxiv.org/abs/2604.27596)<br>
-Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C050.title }}]({{ site.data.academic_publications_by_id.C050.link }})<br>
+{{ site.data.academic_publications_by_id.C050.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
-[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39777)<br>
-Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C044.title }}]({{ site.data.academic_publications_by_id.C044.link }})<br>
+{{ site.data.academic_publications_by_id.C044.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGKDD'24</span> 
-[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
+[{{ site.data.academic_publications_by_id.C018.title }}]({{ site.data.academic_publications_by_id.C018.link }})<br>
+{{ site.data.academic_publications_by_id.C018.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 NeurIPS'24</span> 
-[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html)<br>
-Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.C026.title }}]({{ site.data.academic_publications_by_id.C026.link }})<br>
+{{ site.data.academic_publications_by_id.C026.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TMM'26</span> 
-[NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering](https://ieeexplore.ieee.org/abstract/document/11353921/)<br>
-Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao, **Yiqun Zhang** and Yang Liu
+[{{ site.data.academic_publications_by_id.J025.title }}]({{ site.data.academic_publications_by_id.J025.link }})<br>
+{{ site.data.academic_publications_by_id.J025.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TAI'25</span> 
-[Trending Applications of Large Language Models: A User Perspective Survey](https://ieeexplore.ieee.org/abstract/document/11199892) [[中文版]](https://yqzhang-zz.github.io/zh-publications/papers/TAI-LLM-Survey1-Chinese-Version.pdf)<br>
-**Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup> 
+[{{ site.data.academic_publications_by_id.J023.title }}]({{ site.data.academic_publications_by_id.J023.link }})<br>
+{{ site.data.academic_publications_by_id.J023.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCYB'25</span> 
-[Online Heterogeneous Feature Selection](https://ieeexplore.ieee.org/abstract/document/11274409)<br>
-**Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J022.title }}]({{ site.data.academic_publications_by_id.J022.link }})<br>
+{{ site.data.academic_publications_by_id.J022.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'25</span> 
-[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://arxiv.org/pdf/2404.09243)<br>
-**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J017.title }}]({{ site.data.academic_publications_by_id.J017.link }})<br>
+{{ site.data.academic_publications_by_id.J017.authors_markdown }}
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TPAMI'22</span> 
-[Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2021-3056510-publication-version.pdf)<br>
-**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
+[{{ site.data.academic_publications_by_id.J005.title }}]({{ site.data.academic_publications_by_id.J005.link }})<br>
+{{ site.data.academic_publications_by_id.J005.authors_markdown }}
 
   ... ... 完整论文列表请点<a href="/zh-publications/" target="_self">这里</a>或访问：[DBLP](https://dblp.org/pid/125/5587-6.html) &#124; [谷歌学术](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN) ... ...
 
@@ -283,11 +279,11 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士
+- *{{ site.data.academic_profile.education["edu-1"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-1"].end | replace: "-", "/" }}*: 香港浸会大学，计算机科学系，哲学博士
 <br><span style="font-size: 0.85em; color: #666;">（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）</span>
-- *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
-- *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
-- *2006/09 - 2009/07*: 深圳市红岭中学
+- *{{ site.data.academic_profile.education["edu-2"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-2"].end | replace: "-", "/" }}*: 香港浸会大学，计算机科学系，理学硕士
+- *{{ site.data.academic_profile.education["edu-3"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-3"].end | replace: "-", "/" }}*: 华南理工大学，生物医学工程系，工学学士
+- *{{ site.data.academic_profile.education["edu-4"].start | replace: "-", "/" }} - {{ site.data.academic_profile.education["edu-4"].end | replace: "-", "/" }}*: 深圳市红岭中学
 
 <span class='anchor' id="internships"></span>
 
@@ -297,12 +293,13 @@ TPAMI'22</span>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
 
-- *2026/01 至今*: 广东工业大学，计算机学院，特聘教授
-- *2024/12 - 2025/12*: 香港浸会大学，计算机科学系，访问研究学者
-- *2023/12 - 2026/01*: 广东工业大学，计算机学院，副教授
-- *2022/09 - 2023/12*: 广东工业大学，计算机学院，特聘副教授
-- *2020/10 - 2022/09*: 广东工业大学，计算机学院，讲师
-- *2019/09 - 2021/02*: 香港浸会大学，计算机科学系，博士后
+- *{{ site.data.academic_profile.employment["job-1"].start | replace: "-", "/" }} 至今*: 广东工业大学，计算机学院，特聘教授
+- *{{ site.data.academic_profile.employment["job-2"].start | replace: "-", "/" }} - {{ site.data.academic_profile.employment["job-2"].end | replace: "-", "/" }}*: 香港浸会大学，计算机科学系，访问研究学者
+- *{{ site.data.academic_profile.employment["job-3"].detailed[1].start | replace: "-", "/" }} - {{ site.data.academic_profile.employment["job-3"].detailed[1].end | replace: "-", "/" }}*: 广东工业大学，计算机学院，副教授
+- *{{ site.data.academic_profile.employment["job-3"].detailed[0].start | replace: "-", "/" }} - {{ site.data.academic_profile.employment["job-3"].detailed[0].end | replace: "-", "/" }}*: 广东工业大学，计算机学院，特聘副教授
+- *{{ site.data.academic_profile.employment["job-4"].start | replace: "-", "/" }} - {{ site.data.academic_profile.employment["job-4"].end | replace: "-", "/" }}*: 广东工业大学，计算机学院，讲师
+- *{{ site.data.academic_profile.employment["job-5"].start | replace: "-", "/" }} - {{ site.data.academic_profile.employment["job-5"].end | replace: "-", "/" }}*: 香港浸会大学，计算机科学系，博士后
+- *{{ site.data.academic_profile.employment["job-6"].start | replace: "-", "/" }} - {{ site.data.academic_profile.employment["job-6"].end | replace: "-", "/" }}*: 香港浸会大学，计算机科学系，高级研究助理
 
 
 <span class='anchor' id="invited-talks"></span>
