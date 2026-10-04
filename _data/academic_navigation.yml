@@ -1,0 +1,17 @@
+language: zh
+default_section: home
+home: /zh/
+language_switch: /
+links:
+- key: home
+  title: 个人主页
+  url: /zh/
+- key: news
+  title: 新闻
+  url: /zh-news/
+- key: publications
+  title: 论文
+  url: /zh-publications/
+- key: omg
+  title: 关于 OMG
+  url: /zh-OMG/
