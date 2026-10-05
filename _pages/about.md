@@ -195,14 +195,14 @@ TNNLS'18</span>](https://ieeexplore.ieee.org/abstract/document/8423698)
 **代表性论文列表**
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+SIGMOD'27</span> 
+[{{ site.data.academic_publications_by_id.C062.title }}](/zh-publications/#paper-C062)<br>
+{{ site.data.academic_publications_by_id.C062.authors_markdown }}
+
+- <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
 [{{ site.data.academic_publications_by_id.C048.title }}]({{ site.data.academic_publications_by_id.C048.link }})<br>
 {{ site.data.academic_publications_by_id.C048.authors_markdown }}
-
-- <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-CVPR'26</span> 
-[{{ site.data.academic_publications_by_id.C050.title }}]({{ site.data.academic_publications_by_id.C050.link }})<br>
-{{ site.data.academic_publications_by_id.C050.authors_markdown }}
 
 - <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
