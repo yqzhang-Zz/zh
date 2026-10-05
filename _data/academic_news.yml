@@ -53,6 +53,12 @@ entries:
   - J030
   text: 🎉 [一篇论文](/zh-publications/#paper-J030)被**Pattern Recognition**接收，恭喜李梦柯教授！
   line: '- *2026/08*: 🎉 [一篇论文](/zh-publications/#paper-J030)被**Pattern Recognition**接收，恭喜李梦柯教授！'
+- id: news-009
+  date: 2026-07
+  publication_ids:
+  - J017
+  text: 🎉🎉 论文“[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)”（TNNLS 2025）连续4期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/07）。
+  line: '- *2026/07*: 🎉🎉 论文“[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)”（TNNLS 2025）连续4期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/07）。'
 markdown: '- *2026/09*: 🎉🎉🎉 OMG 2023级5位本科科研生**全部成功推免**，恭喜谭泽熙（**南方科技大学直博**），谢涛（**中国科学院大学直博**），杨梓华（**中科院计算所**），王怡欧（**东北大学**）和廖歆（**电子科技大学**）！
 
   - *2026/09*: 🎉🎉 论文“[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)”（TNNLS 2025）入选**ESI热点论文**（2026/09），并连续5期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/09）。
@@ -69,7 +75,9 @@ markdown: '- *2026/09*: 🎉🎉🎉 OMG 2023级5位本科科研生**全部成�
 
   - *2026/08*: 🎉 [一篇论文](/zh-publications/#paper-C057)被**CIKM 2026**录用，恭喜蔡升宏和杨梓华同学！
 
-  - *2026/08*: 🎉 [一篇论文](/zh-publications/#paper-J030)被**Pattern Recognition**接收，恭喜李梦柯教授！'
+  - *2026/08*: 🎉 [一篇论文](/zh-publications/#paper-J030)被**Pattern Recognition**接收，恭喜李梦柯教授！
+
+  - *2026/07*: 🎉🎉 论文“[Learning Self-Growth Maps for…](/zh-publications/#paper-J017)”（TNNLS 2025）连续4期入选**ESI高被引论文**（2026/01 &#124; .. &#124; 2026/07）。'
 all_entries:
 - id: news-001
   date: 2026-09
