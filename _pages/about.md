@@ -55,7 +55,7 @@ ap_section: home
   <div style="width: 140px; height: 3px; background-color: #1A365D;"></div>
   <div style="flex-grow: 1; height: 1px; background-color: #1A365D;"></div>
 </div>
-{{ site.data.academic_news.markdown }}
+{% include academic-news-preview.html %}
 
   
   ... ... 查看历史新闻请点<a href="/zh-news/" target="_self">这里</a> ... ...
