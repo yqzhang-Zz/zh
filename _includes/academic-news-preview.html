@@ -1,0 +1,2 @@
+{% for item in site.data.academic_news.entries limit:10 %}- *{{ item.date | replace: '-', '/' }}*: {{ item.text }}
+{% endfor %}
